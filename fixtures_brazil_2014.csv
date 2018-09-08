@@ -1,0 +1,65 @@
+Tournament,Game,DateTime,Group/Stage,Stadium,City,HomeTeam,AwayTeam
+Brazil 2014,1,"12 Jun 2014 - 17:00",Group A,Arena de Sao Paulo,"Sao Paulo",Brazil,Croatia
+Brazil 2014,2,"13 Jun 2014 - 13:00",Group A,Estadio das Dunas,"Natal",Mexico,Cameroon
+Brazil 2014,3,"13 Jun 2014 - 16:00",Group B,Arena Fonte Nova,"Salvador",Spain,Netherlands
+Brazil 2014,4,"13 Jun 2014 - 18:00",Group B,Arena Pantanal,"Cuiaba",Chile,Australia
+Brazil 2014,5,"14 Jun 2014 - 13:00",Group C,Estadio Mineirao,"Belo Horizonte",Colombia,Greece
+Brazil 2014,6,"14 Jun 2014 - 16:00",Group D,Estadio Castelao,"Fortaleza",Uruguay,Costa Rica
+Brazil 2014,7,"14 Jun 2014 - 18:00",Group D,Arena Amazonia,"Manaus",England,Italy
+Brazil 2014,8,"14 Jun 2014 - 22:00",Group C,Arena Pernambuco,"Recife",C�te d'Ivoire,Japan
+Brazil 2014,9,"15 Jun 2014 - 13:00",Group E,Estadio Nacional,"Brasilia",Switzerland,Ecuador
+Brazil 2014,10,"15 Jun 2014 - 16:00",Group E,Estadio Beira-Rio,"Porto Alegre",France,Honduras
+Brazil 2014,11,"15 Jun 2014 - 19:00",Group F,Estadio do Maracana,"Rio De Janeiro",Argentina,"Bosnia and Herzegovina"
+Brazil 2014,12,"16 Jun 2014 - 13:00",Group G,Arena Fonte Nova,"Salvador",Germany,Portugal
+Brazil 2014,13,"16 Jun 2014 - 16:00",Group F,Arena da Baixada,"Curitiba",IR Iran,Nigeria
+Brazil 2014,14,"16 Jun 2014 - 19:00",Group G,Estadio das Dunas,"Natal",Ghana,USA
+Brazil 2014,15,"17 Jun 2014 - 13:00",Group H,Estadio Mineirao,"Belo Horizonte",Belgium,Algeria
+Brazil 2014,16,"17 Jun 2014 - 16:00",Group A,Estadio Castelao,"Fortaleza",Brazil,Mexico
+Brazil 2014,17,"17 Jun 2014 - 18:00",Group H,Arena Pantanal,"Cuiaba",Russia,Korea Republic
+Brazil 2014,18,"18 Jun 2014 - 13:00",Group B,Estadio Beira-Rio,"Porto Alegre",Australia,Netherlands
+Brazil 2014,19,"18 Jun 2014 - 16:00",Group B,Estadio do Maracana,"Rio De Janeiro",Spain,Chile
+Brazil 2014,20,"18 Jun 2014 - 18:00",Group A,Arena Amazonia,"Manaus",Cameroon,Croatia
+Brazil 2014,21,"19 Jun 2014 - 13:00",Group C,Estadio Nacional,"Brasilia",Colombia,C�te d'Ivoire
+Brazil 2014,22,"19 Jun 2014 - 16:00",Group D,Arena de Sao Paulo,"Sao Paulo",Uruguay,England
+Brazil 2014,23,"19 Jun 2014 - 19:00",Group C,Estadio das Dunas,"Natal",Japan,Greece
+Brazil 2014,24,"20 Jun 2014 - 13:00",Group D,Arena Pernambuco,"Recife",Italy,Costa Rica
+Brazil 2014,25,"20 Jun 2014 - 16:00",Group E,Arena Fonte Nova,"Salvador",Switzerland,France
+Brazil 2014,26,"20 Jun 2014 - 19:00",Group E,Arena da Baixada,"Curitiba",Honduras,Ecuador
+Brazil 2014,27,"21 Jun 2014 - 13:00",Group F,Estadio Mineirao,"Belo Horizonte",Argentina,IR Iran
+Brazil 2014,28,"21 Jun 2014 - 16:00",Group G,Estadio Castelao,"Fortaleza",Germany,Ghana
+Brazil 2014,29,"21 Jun 2014 - 18:00",Group F,Arena Pantanal,"Cuiaba",Nigeria,"Bosnia and Herzegovina"
+Brazil 2014,30,"22 Jun 2014 - 13:00",Group H,Estadio do Maracana,"Rio De Janeiro",Belgium,Russia
+Brazil 2014,31,"22 Jun 2014 - 16:00",Group H,Estadio Beira-Rio,"Porto Alegre",Korea Republic,Algeria
+Brazil 2014,32,"22 Jun 2014 - 18:00",Group G,Arena Amazonia,"Manaus",USA,Portugal
+Brazil 2014,33,"23 Jun 2014 - 13:00",Group B,Arena da Baixada,"Curitiba",Australia,Spain
+Brazil 2014,34,"23 Jun 2014 - 13:00",Group B,Arena de Sao Paulo,"Sao Paulo",Netherlands,Chile
+Brazil 2014,35,"23 Jun 2014 - 17:00",Group A,Estadio Nacional,"Brasilia",Cameroon,Brazil
+Brazil 2014,36,"23 Jun 2014 - 17:00",Group A,Arena Pernambuco,"Recife",Croatia,Mexico
+Brazil 2014,37,"24 Jun 2014 - 13:00",Group D,Estadio das Dunas,"Natal",Italy,Uruguay
+Brazil 2014,38,"24 Jun 2014 - 13:00",Group D,Estadio Mineirao,"Belo Horizonte",Costa Rica,England
+Brazil 2014,39,"24 Jun 2014 - 16:00",Group C,Arena Pantanal,"Cuiaba",Japan,Colombia
+Brazil 2014,40,"24 Jun 2014 - 17:00",Group C,Estadio Castelao,"Fortaleza",Greece,C�te d'Ivoire
+Brazil 2014,41,"25 Jun 2014 - 13:00",Group F,Estadio Beira-Rio,"Porto Alegre",Nigeria,Argentina
+Brazil 2014,42,"25 Jun 2014 - 13:00",Group F,Arena Fonte Nova,"Salvador","Bosnia and Herzegovina",IR Iran
+Brazil 2014,43,"25 Jun 2014 - 16:00",Group E,Arena Amazonia,"Manaus",Honduras,Switzerland
+Brazil 2014,44,"25 Jun 2014 - 17:00",Group E,Estadio do Maracana,"Rio De Janeiro",Ecuador,France
+Brazil 2014,45,"26 Jun 2014 - 13:00",Group G,Arena Pernambuco,"Recife",USA,Germany
+Brazil 2014,46,"26 Jun 2014 - 13:00",Group G,Estadio Nacional,"Brasilia",Portugal,Ghana
+Brazil 2014,47,"26 Jun 2014 - 17:00",Group H,Arena de Sao Paulo,"Sao Paulo",Korea Republic,Belgium
+Brazil 2014,48,"26 Jun 2014 - 17:00",Group H,Arena da Baixada,"Curitiba",Algeria,Russia
+Brazil 2014,49,"28 Jun 2014 - 13:00",Round of 16,Estadio Mineirao,"Belo Horizonte",1A,2B
+Brazil 2014,50,"28 Jun 2014 - 17:00",Round of 16,Estadio do Maracana,"Rio De Janeiro",1C,2D
+Brazil 2014,51,"29 Jun 2014 - 13:00",Round of 16,Estadio Castelao,"Fortaleza",1B,2A
+Brazil 2014,52,"29 Jun 2014 - 17:00",Round of 16,Arena Pernambuco,"Recife",1D,2C
+Brazil 2014,53,"30 Jun 2014 - 13:00",Round of 16,Estadio Nacional,"Brasilia",1E,2F
+Brazil 2014,54,"30 Jun 2014 - 17:00",Round of 16,Estadio Beira-Rio,"Porto Alegre",1G,2H
+Brazil 2014,55,"01 Jul 2014 - 13:00",Round of 16,Arena de Sao Paulo,"Sao Paulo",1F,2E
+Brazil 2014,56,"01 Jul 2014 - 17:00",Round of 16,Arena Fonte Nova,"Salvador",1H,2G
+Brazil 2014,57,"04 Jul 2014 - 13:00",Quarter-finals,Estadio do Maracana,"Rio De Janeiro",W53,W54
+Brazil 2014,58,"04 Jul 2014 - 17:00",Quarter-finals,Estadio Castelao,"Fortaleza",W49,W50
+Brazil 2014,59,"05 Jul 2014 - 13:00",Quarter-finals,Estadio Nacional,"Brasilia",W55,W56
+Brazil 2014,60,"05 Jul 2014 - 17:00",Quarter-finals,Arena Fonte Nova,"Salvador",W51,W52
+Brazil 2014,61,"08 Jul 2014 - 17:00",Semi-finals,Estadio Mineirao,"Belo Horizonte",W58,W57
+Brazil 2014,62,"09 Jul 2014 - 17:00",Semi-finals,Arena de Sao Paulo,"Sao Paulo",W60,W59
+Brazil 2014,63,"12 Jul 2014 - 17:00",Play-off for third place,Estadio Nacional,"Brasilia",L61,L62
+Brazil 2014,64,"13 Jul 2014 - 16:00",Final,Estadio do Maracana,"Rio De Janeiro",W61,W62

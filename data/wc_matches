@@ -1,0 +1,3818 @@
+[
+    {
+        "away-team": "Cameroon",
+        "away_score": "1",
+        "country": "Italy",
+        "date": "1990-06-08",
+        "home_score": "0",
+        "home_team": "Argentina",
+        "year": "1990"
+    },
+    {
+        "away-team": "Austria",
+        "away_score": "0",
+        "country": "Italy",
+        "date": "1990-06-09",
+        "home_score": "1",
+        "home_team": "Italy",
+        "year": "1990"
+    },
+    {
+        "away-team": "Romania",
+        "away_score": "2",
+        "country": "Italy",
+        "date": "1990-06-09",
+        "home_score": "0",
+        "home_team": "Russia",
+        "year": "1990"
+    },
+    {
+        "away-team": "Colombia",
+        "away_score": "2",
+        "country": "Italy",
+        "date": "1990-06-09",
+        "home_score": "0",
+        "home_team": "United Arab Emirates",
+        "year": "1990"
+    },
+    {
+        "away-team": "Sweden",
+        "away_score": "1",
+        "country": "Italy",
+        "date": "1990-06-10",
+        "home_score": "2",
+        "home_team": "Brazil",
+        "year": "1990"
+    },
+    {
+        "away-team": "Yugoslavia",
+        "away_score": "1",
+        "country": "Italy",
+        "date": "1990-06-10",
+        "home_score": "4",
+        "home_team": "Germany",
+        "year": "1990"
+    },
+    {
+        "away-team": "Czechoslovakia",
+        "away_score": "5",
+        "country": "Italy",
+        "date": "1990-06-10",
+        "home_score": "1",
+        "home_team": "USA",
+        "year": "1990"
+    },
+    {
+        "away-team": "Scotland",
+        "away_score": "0",
+        "country": "Italy",
+        "date": "1990-06-11",
+        "home_score": "1",
+        "home_team": "Costa Rica",
+        "year": "1990"
+    },
+    {
+        "away-team": "Ireland",
+        "away_score": "1",
+        "country": "Italy",
+        "date": "1990-06-11",
+        "home_score": "1",
+        "home_team": "England",
+        "year": "1990"
+    },
+    {
+        "away-team": "Korea Republic",
+        "away_score": "0",
+        "country": "Italy",
+        "date": "1990-06-12",
+        "home_score": "2",
+        "home_team": "Belgium",
+        "year": "1990"
+    },
+    {
+        "away-team": "Egypt",
+        "away_score": "1",
+        "country": "Italy",
+        "date": "1990-06-12",
+        "home_score": "1",
+        "home_team": "Netherlands",
+        "year": "1990"
+    },
+    {
+        "away-team": "Russia",
+        "away_score": "0",
+        "country": "Italy",
+        "date": "1990-06-13",
+        "home_score": "2",
+        "home_team": "Argentina",
+        "year": "1990"
+    },
+    {
+        "away-team": "Spain",
+        "away_score": "0",
+        "country": "Italy",
+        "date": "1990-06-13",
+        "home_score": "0",
+        "home_team": "Uruguay",
+        "year": "1990"
+    },
+    {
+        "away-team": "Romania",
+        "away_score": "1",
+        "country": "Italy",
+        "date": "1990-06-14",
+        "home_score": "2",
+        "home_team": "Cameroon",
+        "year": "1990"
+    },
+    {
+        "away-team": "USA",
+        "away_score": "0",
+        "country": "Italy",
+        "date": "1990-06-14",
+        "home_score": "1",
+        "home_team": "Italy",
+        "year": "1990"
+    },
+    {
+        "away-team": "Colombia",
+        "away_score": "0",
+        "country": "Italy",
+        "date": "1990-06-14",
+        "home_score": "1",
+        "home_team": "Yugoslavia",
+        "year": "1990"
+    },
+    {
+        "away-team": "Czechoslovakia",
+        "away_score": "1",
+        "country": "Italy",
+        "date": "1990-06-15",
+        "home_score": "0",
+        "home_team": "Austria",
+        "year": "1990"
+    },
+    {
+        "away-team": "United Arab Emirates",
+        "away_score": "1",
+        "country": "Italy",
+        "date": "1990-06-15",
+        "home_score": "5",
+        "home_team": "Germany",
+        "year": "1990"
+    },
+    {
+        "away-team": "Costa Rica",
+        "away_score": "0",
+        "country": "Italy",
+        "date": "1990-06-16",
+        "home_score": "1",
+        "home_team": "Brazil",
+        "year": "1990"
+    },
+    {
+        "away-team": "Netherlands",
+        "away_score": "0",
+        "country": "Italy",
+        "date": "1990-06-16",
+        "home_score": "0",
+        "home_team": "England",
+        "year": "1990"
+    },
+    {
+        "away-team": "Scotland",
+        "away_score": "2",
+        "country": "Italy",
+        "date": "1990-06-16",
+        "home_score": "1",
+        "home_team": "Sweden",
+        "year": "1990"
+    },
+    {
+        "away-team": "Uruguay",
+        "away_score": "1",
+        "country": "Italy",
+        "date": "1990-06-17",
+        "home_score": "3",
+        "home_team": "Belgium",
+        "year": "1990"
+    },
+    {
+        "away-team": "Egypt",
+        "away_score": "0",
+        "country": "Italy",
+        "date": "1990-06-17",
+        "home_score": "0",
+        "home_team": "Ireland",
+        "year": "1990"
+    },
+    {
+        "away-team": "Spain",
+        "away_score": "3",
+        "country": "Italy",
+        "date": "1990-06-17",
+        "home_score": "1",
+        "home_team": "Korea Republic",
+        "year": "1990"
+    },
+    {
+        "away-team": "Romania",
+        "away_score": "1",
+        "country": "Italy",
+        "date": "1990-06-18",
+        "home_score": "1",
+        "home_team": "Argentina",
+        "year": "1990"
+    },
+    {
+        "away-team": "Russia",
+        "away_score": "4",
+        "country": "Italy",
+        "date": "1990-06-18",
+        "home_score": "0",
+        "home_team": "Cameroon",
+        "year": "1990"
+    },
+    {
+        "away-team": "USA",
+        "away_score": "1",
+        "country": "Italy",
+        "date": "1990-06-19",
+        "home_score": "2",
+        "home_team": "Austria",
+        "year": "1990"
+    },
+    {
+        "away-team": "Colombia",
+        "away_score": "1",
+        "country": "Italy",
+        "date": "1990-06-19",
+        "home_score": "1",
+        "home_team": "Germany",
+        "year": "1990"
+    },
+    {
+        "away-team": "Czechoslovakia",
+        "away_score": "0",
+        "country": "Italy",
+        "date": "1990-06-19",
+        "home_score": "2",
+        "home_team": "Italy",
+        "year": "1990"
+    },
+    {
+        "away-team": "United Arab Emirates",
+        "away_score": "1",
+        "country": "Italy",
+        "date": "1990-06-19",
+        "home_score": "4",
+        "home_team": "Yugoslavia",
+        "year": "1990"
+    },
+    {
+        "away-team": "Scotland",
+        "away_score": "0",
+        "country": "Italy",
+        "date": "1990-06-20",
+        "home_score": "1",
+        "home_team": "Brazil",
+        "year": "1990"
+    },
+    {
+        "away-team": "Costa Rica",
+        "away_score": "2",
+        "country": "Italy",
+        "date": "1990-06-20",
+        "home_score": "1",
+        "home_team": "Sweden",
+        "year": "1990"
+    },
+    {
+        "away-team": "Spain",
+        "away_score": "2",
+        "country": "Italy",
+        "date": "1990-06-21",
+        "home_score": "1",
+        "home_team": "Belgium",
+        "year": "1990"
+    },
+    {
+        "away-team": "Egypt",
+        "away_score": "0",
+        "country": "Italy",
+        "date": "1990-06-21",
+        "home_score": "1",
+        "home_team": "England",
+        "year": "1990"
+    },
+    {
+        "away-team": "Netherlands",
+        "away_score": "1",
+        "country": "Italy",
+        "date": "1990-06-21",
+        "home_score": "1",
+        "home_team": "Ireland",
+        "year": "1990"
+    },
+    {
+        "away-team": "Uruguay",
+        "away_score": "1",
+        "country": "Italy",
+        "date": "1990-06-21",
+        "home_score": "0",
+        "home_team": "Korea Republic",
+        "year": "1990"
+    },
+    {
+        "away-team": "Colombia",
+        "away_score": "1",
+        "country": "Italy",
+        "date": "1990-06-23",
+        "home_score": "2",
+        "home_team": "Cameroon",
+        "year": "1990"
+    },
+    {
+        "away-team": "Costa Rica",
+        "away_score": "1",
+        "country": "Italy",
+        "date": "1990-06-23",
+        "home_score": "4",
+        "home_team": "Czechoslovakia",
+        "year": "1990"
+    },
+    {
+        "away-team": "Argentina",
+        "away_score": "1",
+        "country": "Italy",
+        "date": "1990-06-24",
+        "home_score": "0",
+        "home_team": "Brazil",
+        "year": "1990"
+    },
+    {
+        "away-team": "Netherlands",
+        "away_score": "1",
+        "country": "Italy",
+        "date": "1990-06-24",
+        "home_score": "2",
+        "home_team": "Germany",
+        "year": "1990"
+    },
+    {
+        "away-team": "Romania",
+        "away_score": "0",
+        "country": "Italy",
+        "date": "1990-06-25",
+        "home_score": "0",
+        "home_team": "Ireland",
+        "year": "1990"
+    },
+    {
+        "away-team": "Uruguay",
+        "away_score": "0",
+        "country": "Italy",
+        "date": "1990-06-25",
+        "home_score": "2",
+        "home_team": "Italy",
+        "year": "1990"
+    },
+    {
+        "away-team": "Belgium",
+        "away_score": "0",
+        "country": "Italy",
+        "date": "1990-06-26",
+        "home_score": "1",
+        "home_team": "England",
+        "year": "1990"
+    },
+    {
+        "away-team": "Yugoslavia",
+        "away_score": "2",
+        "country": "Italy",
+        "date": "1990-06-26",
+        "home_score": "1",
+        "home_team": "Spain",
+        "year": "1990"
+    },
+    {
+        "away-team": "Ireland",
+        "away_score": "0",
+        "country": "Italy",
+        "date": "1990-06-30",
+        "home_score": "1",
+        "home_team": "Italy",
+        "year": "1990"
+    },
+    {
+        "away-team": "Argentina",
+        "away_score": "0",
+        "country": "Italy",
+        "date": "1990-06-30",
+        "home_score": "0",
+        "home_team": "Yugoslavia",
+        "year": "1990"
+    },
+    {
+        "away-team": "England",
+        "away_score": "3",
+        "country": "Italy",
+        "date": "1990-07-01",
+        "home_score": "2",
+        "home_team": "Cameroon",
+        "year": "1990"
+    },
+    {
+        "away-team": "Czechoslovakia",
+        "away_score": "0",
+        "country": "Italy",
+        "date": "1990-07-01",
+        "home_score": "1",
+        "home_team": "Germany",
+        "year": "1990"
+    },
+    {
+        "away-team": "Argentina",
+        "away_score": "1",
+        "country": "Italy",
+        "date": "1990-07-03",
+        "home_score": "1",
+        "home_team": "Italy",
+        "year": "1990"
+    },
+    {
+        "away-team": "England",
+        "away_score": "1",
+        "country": "Italy",
+        "date": "1990-07-04",
+        "home_score": "1",
+        "home_team": "Germany",
+        "year": "1990"
+    },
+    {
+        "away-team": "England",
+        "away_score": "1",
+        "country": "Italy",
+        "date": "1990-07-07",
+        "home_score": "2",
+        "home_team": "Italy",
+        "year": "1990"
+    },
+    {
+        "away-team": "Argentina",
+        "away_score": "0",
+        "country": "Italy",
+        "date": "1990-07-08",
+        "home_score": "1",
+        "home_team": "Germany",
+        "year": "1990"
+    },
+    {
+        "away-team": "Bolivia",
+        "away_score": "0",
+        "country": "USA",
+        "date": "1994-06-17",
+        "home_score": "1",
+        "home_team": "Germany",
+        "year": "1994"
+    },
+    {
+        "away-team": "Korea Republic",
+        "away_score": "2",
+        "country": "USA",
+        "date": "1994-06-17",
+        "home_score": "2",
+        "home_team": "Spain",
+        "year": "1994"
+    },
+    {
+        "away-team": "Romania",
+        "away_score": "3",
+        "country": "USA",
+        "date": "1994-06-18",
+        "home_score": "1",
+        "home_team": "Colombia",
+        "year": "1994"
+    },
+    {
+        "away-team": "Ireland",
+        "away_score": "1",
+        "country": "USA",
+        "date": "1994-06-18",
+        "home_score": "0",
+        "home_team": "Italy",
+        "year": "1994"
+    },
+    {
+        "away-team": "Switzerland",
+        "away_score": "1",
+        "country": "USA",
+        "date": "1994-06-18",
+        "home_score": "1",
+        "home_team": "USA",
+        "year": "1994"
+    },
+    {
+        "away-team": "Morocco",
+        "away_score": "0",
+        "country": "USA",
+        "date": "1994-06-19",
+        "home_score": "1",
+        "home_team": "Belgium",
+        "year": "1994"
+    },
+    {
+        "away-team": "Sweden",
+        "away_score": "2",
+        "country": "USA",
+        "date": "1994-06-19",
+        "home_score": "2",
+        "home_team": "Cameroon",
+        "year": "1994"
+    },
+    {
+        "away-team": "Mexico",
+        "away_score": "0",
+        "country": "USA",
+        "date": "1994-06-19",
+        "home_score": "1",
+        "home_team": "Norway",
+        "year": "1994"
+    },
+    {
+        "away-team": "Russia",
+        "away_score": "0",
+        "country": "USA",
+        "date": "1994-06-20",
+        "home_score": "2",
+        "home_team": "Brazil",
+        "year": "1994"
+    },
+    {
+        "away-team": "Saudi Arabia",
+        "away_score": "1",
+        "country": "USA",
+        "date": "1994-06-20",
+        "home_score": "2",
+        "home_team": "Netherlands",
+        "year": "1994"
+    },
+    {
+        "away-team": "Greece",
+        "away_score": "0",
+        "country": "USA",
+        "date": "1994-06-21",
+        "home_score": "4",
+        "home_team": "Argentina",
+        "year": "1994"
+    },
+    {
+        "away-team": "Spain",
+        "away_score": "1",
+        "country": "USA",
+        "date": "1994-06-21",
+        "home_score": "1",
+        "home_team": "Germany",
+        "year": "1994"
+    },
+    {
+        "away-team": "Bulgaria",
+        "away_score": "0",
+        "country": "USA",
+        "date": "1994-06-21",
+        "home_score": "3",
+        "home_team": "Nigeria",
+        "year": "1994"
+    },
+    {
+        "away-team": "Switzerland",
+        "away_score": "4",
+        "country": "USA",
+        "date": "1994-06-22",
+        "home_score": "1",
+        "home_team": "Romania",
+        "year": "1994"
+    },
+    {
+        "away-team": "Colombia",
+        "away_score": "1",
+        "country": "USA",
+        "date": "1994-06-22",
+        "home_score": "2",
+        "home_team": "USA",
+        "year": "1994"
+    },
+    {
+        "away-team": "Norway",
+        "away_score": "0",
+        "country": "USA",
+        "date": "1994-06-23",
+        "home_score": "1",
+        "home_team": "Italy",
+        "year": "1994"
+    },
+    {
+        "away-team": "Bolivia",
+        "away_score": "0",
+        "country": "USA",
+        "date": "1994-06-23",
+        "home_score": "0",
+        "home_team": "Korea Republic",
+        "year": "1994"
+    },
+    {
+        "away-team": "Cameroon",
+        "away_score": "0",
+        "country": "USA",
+        "date": "1994-06-24",
+        "home_score": "3",
+        "home_team": "Brazil",
+        "year": "1994"
+    },
+    {
+        "away-team": "Ireland",
+        "away_score": "1",
+        "country": "USA",
+        "date": "1994-06-24",
+        "home_score": "2",
+        "home_team": "Mexico",
+        "year": "1994"
+    },
+    {
+        "away-team": "Russia",
+        "away_score": "1",
+        "country": "USA",
+        "date": "1994-06-24",
+        "home_score": "3",
+        "home_team": "Sweden",
+        "year": "1994"
+    },
+    {
+        "away-team": "Nigeria",
+        "away_score": "1",
+        "country": "USA",
+        "date": "1994-06-25",
+        "home_score": "2",
+        "home_team": "Argentina",
+        "year": "1994"
+    },
+    {
+        "away-team": "Netherlands",
+        "away_score": "0",
+        "country": "USA",
+        "date": "1994-06-25",
+        "home_score": "1",
+        "home_team": "Belgium",
+        "year": "1994"
+    },
+    {
+        "away-team": "Morocco",
+        "away_score": "1",
+        "country": "USA",
+        "date": "1994-06-25",
+        "home_score": "2",
+        "home_team": "Saudi Arabia",
+        "year": "1994"
+    },
+    {
+        "away-team": "Greece",
+        "away_score": "0",
+        "country": "USA",
+        "date": "1994-06-26",
+        "home_score": "4",
+        "home_team": "Bulgaria",
+        "year": "1994"
+    },
+    {
+        "away-team": "Colombia",
+        "away_score": "2",
+        "country": "USA",
+        "date": "1994-06-26",
+        "home_score": "0",
+        "home_team": "Switzerland",
+        "year": "1994"
+    },
+    {
+        "away-team": "Romania",
+        "away_score": "1",
+        "country": "USA",
+        "date": "1994-06-26",
+        "home_score": "0",
+        "home_team": "USA",
+        "year": "1994"
+    },
+    {
+        "away-team": "Spain",
+        "away_score": "3",
+        "country": "USA",
+        "date": "1994-06-27",
+        "home_score": "1",
+        "home_team": "Bolivia",
+        "year": "1994"
+    },
+    {
+        "away-team": "Korea Republic",
+        "away_score": "2",
+        "country": "USA",
+        "date": "1994-06-27",
+        "home_score": "3",
+        "home_team": "Germany",
+        "year": "1994"
+    },
+    {
+        "away-team": "Sweden",
+        "away_score": "1",
+        "country": "USA",
+        "date": "1994-06-28",
+        "home_score": "1",
+        "home_team": "Brazil",
+        "year": "1994"
+    },
+    {
+        "away-team": "Norway",
+        "away_score": "0",
+        "country": "USA",
+        "date": "1994-06-28",
+        "home_score": "0",
+        "home_team": "Ireland",
+        "year": "1994"
+    },
+    {
+        "away-team": "Mexico",
+        "away_score": "1",
+        "country": "USA",
+        "date": "1994-06-28",
+        "home_score": "1",
+        "home_team": "Italy",
+        "year": "1994"
+    },
+    {
+        "away-team": "Cameroon",
+        "away_score": "1",
+        "country": "USA",
+        "date": "1994-06-28",
+        "home_score": "6",
+        "home_team": "Russia",
+        "year": "1994"
+    },
+    {
+        "away-team": "Saudi Arabia",
+        "away_score": "1",
+        "country": "USA",
+        "date": "1994-06-29",
+        "home_score": "0",
+        "home_team": "Belgium",
+        "year": "1994"
+    },
+    {
+        "away-team": "Netherlands",
+        "away_score": "2",
+        "country": "USA",
+        "date": "1994-06-29",
+        "home_score": "1",
+        "home_team": "Morocco",
+        "year": "1994"
+    },
+    {
+        "away-team": "Bulgaria",
+        "away_score": "2",
+        "country": "USA",
+        "date": "1994-06-30",
+        "home_score": "0",
+        "home_team": "Argentina",
+        "year": "1994"
+    },
+    {
+        "away-team": "Nigeria",
+        "away_score": "2",
+        "country": "USA",
+        "date": "1994-06-30",
+        "home_score": "0",
+        "home_team": "Greece",
+        "year": "1994"
+    },
+    {
+        "away-team": "Belgium",
+        "away_score": "2",
+        "country": "USA",
+        "date": "1994-07-02",
+        "home_score": "3",
+        "home_team": "Germany",
+        "year": "1994"
+    },
+    {
+        "away-team": "Switzerland",
+        "away_score": "0",
+        "country": "USA",
+        "date": "1994-07-02",
+        "home_score": "3",
+        "home_team": "Spain",
+        "year": "1994"
+    },
+    {
+        "away-team": "Argentina",
+        "away_score": "2",
+        "country": "USA",
+        "date": "1994-07-03",
+        "home_score": "3",
+        "home_team": "Romania",
+        "year": "1994"
+    },
+    {
+        "away-team": "Sweden",
+        "away_score": "3",
+        "country": "USA",
+        "date": "1994-07-03",
+        "home_score": "1",
+        "home_team": "Saudi Arabia",
+        "year": "1994"
+    },
+    {
+        "away-team": "Ireland",
+        "away_score": "0",
+        "country": "USA",
+        "date": "1994-07-04",
+        "home_score": "2",
+        "home_team": "Netherlands",
+        "year": "1994"
+    },
+    {
+        "away-team": "Brazil",
+        "away_score": "1",
+        "country": "USA",
+        "date": "1994-07-04",
+        "home_score": "0",
+        "home_team": "USA",
+        "year": "1994"
+    },
+    {
+        "away-team": "Bulgaria",
+        "away_score": "1",
+        "country": "USA",
+        "date": "1994-07-05",
+        "home_score": "1",
+        "home_team": "Mexico",
+        "year": "1994"
+    },
+    {
+        "away-team": "Italy",
+        "away_score": "2",
+        "country": "USA",
+        "date": "1994-07-05",
+        "home_score": "1",
+        "home_team": "Nigeria",
+        "year": "1994"
+    },
+    {
+        "away-team": "Spain",
+        "away_score": "1",
+        "country": "USA",
+        "date": "1994-07-09",
+        "home_score": "2",
+        "home_team": "Italy",
+        "year": "1994"
+    },
+    {
+        "away-team": "Brazil",
+        "away_score": "3",
+        "country": "USA",
+        "date": "1994-07-09",
+        "home_score": "2",
+        "home_team": "Netherlands",
+        "year": "1994"
+    },
+    {
+        "away-team": "Germany",
+        "away_score": "1",
+        "country": "USA",
+        "date": "1994-07-10",
+        "home_score": "2",
+        "home_team": "Bulgaria",
+        "year": "1994"
+    },
+    {
+        "away-team": "Sweden",
+        "away_score": "2",
+        "country": "USA",
+        "date": "1994-07-10",
+        "home_score": "2",
+        "home_team": "Romania",
+        "year": "1994"
+    },
+    {
+        "away-team": "Italy",
+        "away_score": "2",
+        "country": "USA",
+        "date": "1994-07-13",
+        "home_score": "1",
+        "home_team": "Bulgaria",
+        "year": "1994"
+    },
+    {
+        "away-team": "Brazil",
+        "away_score": "1",
+        "country": "USA",
+        "date": "1994-07-13",
+        "home_score": "0",
+        "home_team": "Sweden",
+        "year": "1994"
+    },
+    {
+        "away-team": "Bulgaria",
+        "away_score": "0",
+        "country": "USA",
+        "date": "1994-07-16",
+        "home_score": "4",
+        "home_team": "Sweden",
+        "year": "1994"
+    },
+    {
+        "away-team": "Italy",
+        "away_score": "0",
+        "country": "USA",
+        "date": "1994-07-17",
+        "home_score": "0",
+        "home_team": "Brazil",
+        "year": "1994"
+    },
+    {
+        "away-team": "Scotland",
+        "away_score": "1",
+        "country": "France",
+        "date": "1998-06-10",
+        "home_score": "2",
+        "home_team": "Brazil",
+        "year": "1998"
+    },
+    {
+        "away-team": "Norway",
+        "away_score": "2",
+        "country": "France",
+        "date": "1998-06-10",
+        "home_score": "2",
+        "home_team": "Morocco",
+        "year": "1998"
+    },
+    {
+        "away-team": "Austria",
+        "away_score": "1",
+        "country": "France",
+        "date": "1998-06-11",
+        "home_score": "1",
+        "home_team": "Cameroon",
+        "year": "1998"
+    },
+    {
+        "away-team": "Chile",
+        "away_score": "2",
+        "country": "France",
+        "date": "1998-06-11",
+        "home_score": "2",
+        "home_team": "Italy",
+        "year": "1998"
+    },
+    {
+        "away-team": "South Africa",
+        "away_score": "0",
+        "country": "France",
+        "date": "1998-06-12",
+        "home_score": "3",
+        "home_team": "France",
+        "year": "1998"
+    },
+    {
+        "away-team": "Bulgaria",
+        "away_score": "0",
+        "country": "France",
+        "date": "1998-06-12",
+        "home_score": "0",
+        "home_team": "Paraguay",
+        "year": "1998"
+    },
+    {
+        "away-team": "Denmark",
+        "away_score": "1",
+        "country": "France",
+        "date": "1998-06-12",
+        "home_score": "0",
+        "home_team": "Saudi Arabia",
+        "year": "1998"
+    },
+    {
+        "away-team": "Mexico",
+        "away_score": "3",
+        "country": "France",
+        "date": "1998-06-13",
+        "home_score": "1",
+        "home_team": "Korea Republic",
+        "year": "1998"
+    },
+    {
+        "away-team": "Belgium",
+        "away_score": "0",
+        "country": "France",
+        "date": "1998-06-13",
+        "home_score": "0",
+        "home_team": "Netherlands",
+        "year": "1998"
+    },
+    {
+        "away-team": "Nigeria",
+        "away_score": "3",
+        "country": "France",
+        "date": "1998-06-13",
+        "home_score": "2",
+        "home_team": "Spain",
+        "year": "1998"
+    },
+    {
+        "away-team": "Japan",
+        "away_score": "0",
+        "country": "France",
+        "date": "1998-06-14",
+        "home_score": "1",
+        "home_team": "Argentina",
+        "year": "1998"
+    },
+    {
+        "away-team": "Croatia",
+        "away_score": "3",
+        "country": "France",
+        "date": "1998-06-14",
+        "home_score": "1",
+        "home_team": "Jamaica",
+        "year": "1998"
+    },
+    {
+        "away-team": "Iran",
+        "away_score": "0",
+        "country": "France",
+        "date": "1998-06-14",
+        "home_score": "1",
+        "home_team": "Serbia",
+        "year": "1998"
+    },
+    {
+        "away-team": "Tunisia",
+        "away_score": "0",
+        "country": "France",
+        "date": "1998-06-15",
+        "home_score": "2",
+        "home_team": "England",
+        "year": "1998"
+    },
+    {
+        "away-team": "USA",
+        "away_score": "0",
+        "country": "France",
+        "date": "1998-06-15",
+        "home_score": "2",
+        "home_team": "Germany",
+        "year": "1998"
+    },
+    {
+        "away-team": "Colombia",
+        "away_score": "0",
+        "country": "France",
+        "date": "1998-06-15",
+        "home_score": "1",
+        "home_team": "Romania",
+        "year": "1998"
+    },
+    {
+        "away-team": "Morocco",
+        "away_score": "0",
+        "country": "France",
+        "date": "1998-06-16",
+        "home_score": "3",
+        "home_team": "Brazil",
+        "year": "1998"
+    },
+    {
+        "away-team": "Norway",
+        "away_score": "1",
+        "country": "France",
+        "date": "1998-06-16",
+        "home_score": "1",
+        "home_team": "Scotland",
+        "year": "1998"
+    },
+    {
+        "away-team": "Austria",
+        "away_score": "1",
+        "country": "France",
+        "date": "1998-06-17",
+        "home_score": "1",
+        "home_team": "Chile",
+        "year": "1998"
+    },
+    {
+        "away-team": "Cameroon",
+        "away_score": "0",
+        "country": "France",
+        "date": "1998-06-17",
+        "home_score": "3",
+        "home_team": "Italy",
+        "year": "1998"
+    },
+    {
+        "away-team": "Saudi Arabia",
+        "away_score": "0",
+        "country": "France",
+        "date": "1998-06-18",
+        "home_score": "4",
+        "home_team": "France",
+        "year": "1998"
+    },
+    {
+        "away-team": "Denmark",
+        "away_score": "1",
+        "country": "France",
+        "date": "1998-06-18",
+        "home_score": "1",
+        "home_team": "South Africa",
+        "year": "1998"
+    },
+    {
+        "away-team": "Bulgaria",
+        "away_score": "0",
+        "country": "France",
+        "date": "1998-06-19",
+        "home_score": "1",
+        "home_team": "Nigeria",
+        "year": "1998"
+    },
+    {
+        "away-team": "Paraguay",
+        "away_score": "0",
+        "country": "France",
+        "date": "1998-06-19",
+        "home_score": "0",
+        "home_team": "Spain",
+        "year": "1998"
+    },
+    {
+        "away-team": "Mexico",
+        "away_score": "2",
+        "country": "France",
+        "date": "1998-06-20",
+        "home_score": "2",
+        "home_team": "Belgium",
+        "year": "1998"
+    },
+    {
+        "away-team": "Croatia",
+        "away_score": "1",
+        "country": "France",
+        "date": "1998-06-20",
+        "home_score": "0",
+        "home_team": "Japan",
+        "year": "1998"
+    },
+    {
+        "away-team": "Korea Republic",
+        "away_score": "0",
+        "country": "France",
+        "date": "1998-06-20",
+        "home_score": "5",
+        "home_team": "Netherlands",
+        "year": "1998"
+    },
+    {
+        "away-team": "Jamaica",
+        "away_score": "0",
+        "country": "France",
+        "date": "1998-06-21",
+        "home_score": "5",
+        "home_team": "Argentina",
+        "year": "1998"
+    },
+    {
+        "away-team": "Serbia",
+        "away_score": "2",
+        "country": "France",
+        "date": "1998-06-21",
+        "home_score": "2",
+        "home_team": "Germany",
+        "year": "1998"
+    },
+    {
+        "away-team": "Iran",
+        "away_score": "2",
+        "country": "France",
+        "date": "1998-06-21",
+        "home_score": "1",
+        "home_team": "USA",
+        "year": "1998"
+    },
+    {
+        "away-team": "Tunisia",
+        "away_score": "0",
+        "country": "France",
+        "date": "1998-06-22",
+        "home_score": "1",
+        "home_team": "Colombia",
+        "year": "1998"
+    },
+    {
+        "away-team": "England",
+        "away_score": "1",
+        "country": "France",
+        "date": "1998-06-22",
+        "home_score": "2",
+        "home_team": "Romania",
+        "year": "1998"
+    },
+    {
+        "away-team": "Norway",
+        "away_score": "2",
+        "country": "France",
+        "date": "1998-06-23",
+        "home_score": "1",
+        "home_team": "Brazil",
+        "year": "1998"
+    },
+    {
+        "away-team": "Cameroon",
+        "away_score": "1",
+        "country": "France",
+        "date": "1998-06-23",
+        "home_score": "1",
+        "home_team": "Chile",
+        "year": "1998"
+    },
+    {
+        "away-team": "Austria",
+        "away_score": "1",
+        "country": "France",
+        "date": "1998-06-23",
+        "home_score": "2",
+        "home_team": "Italy",
+        "year": "1998"
+    },
+    {
+        "away-team": "Morocco",
+        "away_score": "3",
+        "country": "France",
+        "date": "1998-06-23",
+        "home_score": "0",
+        "home_team": "Scotland",
+        "year": "1998"
+    },
+    {
+        "away-team": "Denmark",
+        "away_score": "1",
+        "country": "France",
+        "date": "1998-06-24",
+        "home_score": "2",
+        "home_team": "France",
+        "year": "1998"
+    },
+    {
+        "away-team": "Paraguay",
+        "away_score": "3",
+        "country": "France",
+        "date": "1998-06-24",
+        "home_score": "1",
+        "home_team": "Nigeria",
+        "year": "1998"
+    },
+    {
+        "away-team": "Saudi Arabia",
+        "away_score": "2",
+        "country": "France",
+        "date": "1998-06-24",
+        "home_score": "2",
+        "home_team": "South Africa",
+        "year": "1998"
+    },
+    {
+        "away-team": "Bulgaria",
+        "away_score": "1",
+        "country": "France",
+        "date": "1998-06-24",
+        "home_score": "6",
+        "home_team": "Spain",
+        "year": "1998"
+    },
+    {
+        "away-team": "Korea Republic",
+        "away_score": "1",
+        "country": "France",
+        "date": "1998-06-25",
+        "home_score": "1",
+        "home_team": "Belgium",
+        "year": "1998"
+    },
+    {
+        "away-team": "Iran",
+        "away_score": "0",
+        "country": "France",
+        "date": "1998-06-25",
+        "home_score": "2",
+        "home_team": "Germany",
+        "year": "1998"
+    },
+    {
+        "away-team": "Mexico",
+        "away_score": "2",
+        "country": "France",
+        "date": "1998-06-25",
+        "home_score": "2",
+        "home_team": "Netherlands",
+        "year": "1998"
+    },
+    {
+        "away-team": "Serbia",
+        "away_score": "1",
+        "country": "France",
+        "date": "1998-06-25",
+        "home_score": "0",
+        "home_team": "USA",
+        "year": "1998"
+    },
+    {
+        "away-team": "Croatia",
+        "away_score": "0",
+        "country": "France",
+        "date": "1998-06-26",
+        "home_score": "1",
+        "home_team": "Argentina",
+        "year": "1998"
+    },
+    {
+        "away-team": "England",
+        "away_score": "2",
+        "country": "France",
+        "date": "1998-06-26",
+        "home_score": "0",
+        "home_team": "Colombia",
+        "year": "1998"
+    },
+    {
+        "away-team": "Jamaica",
+        "away_score": "2",
+        "country": "France",
+        "date": "1998-06-26",
+        "home_score": "1",
+        "home_team": "Japan",
+        "year": "1998"
+    },
+    {
+        "away-team": "Tunisia",
+        "away_score": "1",
+        "country": "France",
+        "date": "1998-06-26",
+        "home_score": "1",
+        "home_team": "Romania",
+        "year": "1998"
+    },
+    {
+        "away-team": "Chile",
+        "away_score": "1",
+        "country": "France",
+        "date": "1998-06-27",
+        "home_score": "4",
+        "home_team": "Brazil",
+        "year": "1998"
+    },
+    {
+        "away-team": "Norway",
+        "away_score": "0",
+        "country": "France",
+        "date": "1998-06-27",
+        "home_score": "1",
+        "home_team": "Italy",
+        "year": "1998"
+    },
+    {
+        "away-team": "Paraguay",
+        "away_score": "0",
+        "country": "France",
+        "date": "1998-06-28",
+        "home_score": "1",
+        "home_team": "France",
+        "year": "1998"
+    },
+    {
+        "away-team": "Denmark",
+        "away_score": "4",
+        "country": "France",
+        "date": "1998-06-28",
+        "home_score": "1",
+        "home_team": "Nigeria",
+        "year": "1998"
+    },
+    {
+        "away-team": "Mexico",
+        "away_score": "1",
+        "country": "France",
+        "date": "1998-06-29",
+        "home_score": "2",
+        "home_team": "Germany",
+        "year": "1998"
+    },
+    {
+        "away-team": "Serbia",
+        "away_score": "1",
+        "country": "France",
+        "date": "1998-06-29",
+        "home_score": "2",
+        "home_team": "Netherlands",
+        "year": "1998"
+    },
+    {
+        "away-team": "England",
+        "away_score": "2",
+        "country": "France",
+        "date": "1998-06-30",
+        "home_score": "2",
+        "home_team": "Argentina",
+        "year": "1998"
+    },
+    {
+        "away-team": "Croatia",
+        "away_score": "1",
+        "country": "France",
+        "date": "1998-06-30",
+        "home_score": "0",
+        "home_team": "Romania",
+        "year": "1998"
+    },
+    {
+        "away-team": "Denmark",
+        "away_score": "2",
+        "country": "France",
+        "date": "1998-07-03",
+        "home_score": "3",
+        "home_team": "Brazil",
+        "year": "1998"
+    },
+    {
+        "away-team": "Italy",
+        "away_score": "0",
+        "country": "France",
+        "date": "1998-07-03",
+        "home_score": "0",
+        "home_team": "France",
+        "year": "1998"
+    },
+    {
+        "away-team": "Croatia",
+        "away_score": "3",
+        "country": "France",
+        "date": "1998-07-04",
+        "home_score": "0",
+        "home_team": "Germany",
+        "year": "1998"
+    },
+    {
+        "away-team": "Argentina",
+        "away_score": "1",
+        "country": "France",
+        "date": "1998-07-04",
+        "home_score": "2",
+        "home_team": "Netherlands",
+        "year": "1998"
+    },
+    {
+        "away-team": "Netherlands",
+        "away_score": "1",
+        "country": "France",
+        "date": "1998-07-07",
+        "home_score": "1",
+        "home_team": "Brazil",
+        "year": "1998"
+    },
+    {
+        "away-team": "Croatia",
+        "away_score": "1",
+        "country": "France",
+        "date": "1998-07-08",
+        "home_score": "2",
+        "home_team": "France",
+        "year": "1998"
+    },
+    {
+        "away-team": "Croatia",
+        "away_score": "2",
+        "country": "France",
+        "date": "1998-07-11",
+        "home_score": "1",
+        "home_team": "Netherlands",
+        "year": "1998"
+    },
+    {
+        "away-team": "Brazil",
+        "away_score": "0",
+        "country": "France",
+        "date": "1998-07-12",
+        "home_score": "3",
+        "home_team": "France",
+        "year": "1998"
+    },
+    {
+        "away-team": "Senegal",
+        "away_score": "1",
+        "country": "Korea Republic",
+        "date": "2002-05-31",
+        "home_score": "0",
+        "home_team": "France",
+        "year": "2002"
+    },
+    {
+        "away-team": "Saudi Arabia",
+        "away_score": "0",
+        "country": "Japan",
+        "date": "2002-06-01",
+        "home_score": "8",
+        "home_team": "Germany",
+        "year": "2002"
+    },
+    {
+        "away-team": "Cameroon",
+        "away_score": "1",
+        "country": "Japan",
+        "date": "2002-06-01",
+        "home_score": "1",
+        "home_team": "Ireland",
+        "year": "2002"
+    },
+    {
+        "away-team": "Denmark",
+        "away_score": "2",
+        "country": "Korea Republic",
+        "date": "2002-06-01",
+        "home_score": "1",
+        "home_team": "Uruguay",
+        "year": "2002"
+    },
+    {
+        "away-team": "Nigeria",
+        "away_score": "0",
+        "country": "Japan",
+        "date": "2002-06-02",
+        "home_score": "1",
+        "home_team": "Argentina",
+        "year": "2002"
+    },
+    {
+        "away-team": "Sweden",
+        "away_score": "1",
+        "country": "Japan",
+        "date": "2002-06-02",
+        "home_score": "1",
+        "home_team": "England",
+        "year": "2002"
+    },
+    {
+        "away-team": "South Africa",
+        "away_score": "2",
+        "country": "Korea Republic",
+        "date": "2002-06-02",
+        "home_score": "2",
+        "home_team": "Paraguay",
+        "year": "2002"
+    },
+    {
+        "away-team": "Slovenia",
+        "away_score": "1",
+        "country": "Korea Republic",
+        "date": "2002-06-02",
+        "home_score": "3",
+        "home_team": "Spain",
+        "year": "2002"
+    },
+    {
+        "away-team": "Turkey",
+        "away_score": "1",
+        "country": "Korea Republic",
+        "date": "2002-06-03",
+        "home_score": "2",
+        "home_team": "Brazil",
+        "year": "2002"
+    },
+    {
+        "away-team": "Mexico",
+        "away_score": "1",
+        "country": "Japan",
+        "date": "2002-06-03",
+        "home_score": "0",
+        "home_team": "Croatia",
+        "year": "2002"
+    },
+    {
+        "away-team": "Ecuador",
+        "away_score": "0",
+        "country": "Japan",
+        "date": "2002-06-03",
+        "home_score": "2",
+        "home_team": "Italy",
+        "year": "2002"
+    },
+    {
+        "away-team": "Costa Rica",
+        "away_score": "2",
+        "country": "Korea Republic",
+        "date": "2002-06-04",
+        "home_score": "0",
+        "home_team": "China",
+        "year": "2002"
+    },
+    {
+        "away-team": "Belgium",
+        "away_score": "2",
+        "country": "Japan",
+        "date": "2002-06-04",
+        "home_score": "2",
+        "home_team": "Japan",
+        "year": "2002"
+    },
+    {
+        "away-team": "Poland",
+        "away_score": "0",
+        "country": "Korea Republic",
+        "date": "2002-06-04",
+        "home_score": "2",
+        "home_team": "Korea Republic",
+        "year": "2002"
+    },
+    {
+        "away-team": "Ireland",
+        "away_score": "1",
+        "country": "Japan",
+        "date": "2002-06-05",
+        "home_score": "1",
+        "home_team": "Germany",
+        "year": "2002"
+    },
+    {
+        "away-team": "Tunisia",
+        "away_score": "0",
+        "country": "Japan",
+        "date": "2002-06-05",
+        "home_score": "2",
+        "home_team": "Russia",
+        "year": "2002"
+    },
+    {
+        "away-team": "Portugal",
+        "away_score": "2",
+        "country": "Korea Republic",
+        "date": "2002-06-05",
+        "home_score": "3",
+        "home_team": "USA",
+        "year": "2002"
+    },
+    {
+        "away-team": "Saudi Arabia",
+        "away_score": "0",
+        "country": "Japan",
+        "date": "2002-06-06",
+        "home_score": "1",
+        "home_team": "Cameroon",
+        "year": "2002"
+    },
+    {
+        "away-team": "Senegal",
+        "away_score": "1",
+        "country": "Korea Republic",
+        "date": "2002-06-06",
+        "home_score": "1",
+        "home_team": "Denmark",
+        "year": "2002"
+    },
+    {
+        "away-team": "Uruguay",
+        "away_score": "0",
+        "country": "Korea Republic",
+        "date": "2002-06-06",
+        "home_score": "0",
+        "home_team": "France",
+        "year": "2002"
+    },
+    {
+        "away-team": "England",
+        "away_score": "1",
+        "country": "Japan",
+        "date": "2002-06-07",
+        "home_score": "0",
+        "home_team": "Argentina",
+        "year": "2002"
+    },
+    {
+        "away-team": "Paraguay",
+        "away_score": "1",
+        "country": "Korea Republic",
+        "date": "2002-06-07",
+        "home_score": "3",
+        "home_team": "Spain",
+        "year": "2002"
+    },
+    {
+        "away-team": "Nigeria",
+        "away_score": "1",
+        "country": "Japan",
+        "date": "2002-06-07",
+        "home_score": "2",
+        "home_team": "Sweden",
+        "year": "2002"
+    },
+    {
+        "away-team": "China",
+        "away_score": "0",
+        "country": "Korea Republic",
+        "date": "2002-06-08",
+        "home_score": "4",
+        "home_team": "Brazil",
+        "year": "2002"
+    },
+    {
+        "away-team": "Croatia",
+        "away_score": "2",
+        "country": "Japan",
+        "date": "2002-06-08",
+        "home_score": "1",
+        "home_team": "Italy",
+        "year": "2002"
+    },
+    {
+        "away-team": "Slovenia",
+        "away_score": "0",
+        "country": "Korea Republic",
+        "date": "2002-06-08",
+        "home_score": "1",
+        "home_team": "South Africa",
+        "year": "2002"
+    },
+    {
+        "away-team": "Turkey",
+        "away_score": "1",
+        "country": "Korea Republic",
+        "date": "2002-06-09",
+        "home_score": "1",
+        "home_team": "Costa Rica",
+        "year": "2002"
+    },
+    {
+        "away-team": "Russia",
+        "away_score": "0",
+        "country": "Japan",
+        "date": "2002-06-09",
+        "home_score": "1",
+        "home_team": "Japan",
+        "year": "2002"
+    },
+    {
+        "away-team": "Ecuador",
+        "away_score": "1",
+        "country": "Japan",
+        "date": "2002-06-09",
+        "home_score": "2",
+        "home_team": "Mexico",
+        "year": "2002"
+    },
+    {
+        "away-team": "USA",
+        "away_score": "1",
+        "country": "Korea Republic",
+        "date": "2002-06-10",
+        "home_score": "1",
+        "home_team": "Korea Republic",
+        "year": "2002"
+    },
+    {
+        "away-team": "Poland",
+        "away_score": "0",
+        "country": "Korea Republic",
+        "date": "2002-06-10",
+        "home_score": "4",
+        "home_team": "Portugal",
+        "year": "2002"
+    },
+    {
+        "away-team": "Belgium",
+        "away_score": "1",
+        "country": "Japan",
+        "date": "2002-06-10",
+        "home_score": "1",
+        "home_team": "Tunisia",
+        "year": "2002"
+    },
+    {
+        "away-team": "Germany",
+        "away_score": "2",
+        "country": "Japan",
+        "date": "2002-06-11",
+        "home_score": "0",
+        "home_team": "Cameroon",
+        "year": "2002"
+    },
+    {
+        "away-team": "France",
+        "away_score": "0",
+        "country": "Korea Republic",
+        "date": "2002-06-11",
+        "home_score": "2",
+        "home_team": "Denmark",
+        "year": "2002"
+    },
+    {
+        "away-team": "Ireland",
+        "away_score": "3",
+        "country": "Japan",
+        "date": "2002-06-11",
+        "home_score": "0",
+        "home_team": "Saudi Arabia",
+        "year": "2002"
+    },
+    {
+        "away-team": "Uruguay",
+        "away_score": "3",
+        "country": "Korea Republic",
+        "date": "2002-06-11",
+        "home_score": "3",
+        "home_team": "Senegal",
+        "year": "2002"
+    },
+    {
+        "away-team": "England",
+        "away_score": "0",
+        "country": "Japan",
+        "date": "2002-06-12",
+        "home_score": "0",
+        "home_team": "Nigeria",
+        "year": "2002"
+    },
+    {
+        "away-team": "Paraguay",
+        "away_score": "3",
+        "country": "Korea Republic",
+        "date": "2002-06-12",
+        "home_score": "1",
+        "home_team": "Slovenia",
+        "year": "2002"
+    },
+    {
+        "away-team": "Spain",
+        "away_score": "3",
+        "country": "Korea Republic",
+        "date": "2002-06-12",
+        "home_score": "2",
+        "home_team": "South Africa",
+        "year": "2002"
+    },
+    {
+        "away-team": "Argentina",
+        "away_score": "1",
+        "country": "Japan",
+        "date": "2002-06-12",
+        "home_score": "1",
+        "home_team": "Sweden",
+        "year": "2002"
+    },
+    {
+        "away-team": "Brazil",
+        "away_score": "5",
+        "country": "Korea Republic",
+        "date": "2002-06-13",
+        "home_score": "2",
+        "home_team": "Costa Rica",
+        "year": "2002"
+    },
+    {
+        "away-team": "Croatia",
+        "away_score": "0",
+        "country": "Japan",
+        "date": "2002-06-13",
+        "home_score": "1",
+        "home_team": "Ecuador",
+        "year": "2002"
+    },
+    {
+        "away-team": "Italy",
+        "away_score": "1",
+        "country": "Japan",
+        "date": "2002-06-13",
+        "home_score": "1",
+        "home_team": "Mexico",
+        "year": "2002"
+    },
+    {
+        "away-team": "China",
+        "away_score": "0",
+        "country": "Korea Republic",
+        "date": "2002-06-13",
+        "home_score": "3",
+        "home_team": "Turkey",
+        "year": "2002"
+    },
+    {
+        "away-team": "Russia",
+        "away_score": "2",
+        "country": "Japan",
+        "date": "2002-06-14",
+        "home_score": "3",
+        "home_team": "Belgium",
+        "year": "2002"
+    },
+    {
+        "away-team": "Tunisia",
+        "away_score": "0",
+        "country": "Japan",
+        "date": "2002-06-14",
+        "home_score": "2",
+        "home_team": "Japan",
+        "year": "2002"
+    },
+    {
+        "away-team": "Portugal",
+        "away_score": "0",
+        "country": "Korea Republic",
+        "date": "2002-06-14",
+        "home_score": "1",
+        "home_team": "Korea Republic",
+        "year": "2002"
+    },
+    {
+        "away-team": "USA",
+        "away_score": "1",
+        "country": "Korea Republic",
+        "date": "2002-06-14",
+        "home_score": "3",
+        "home_team": "Poland",
+        "year": "2002"
+    },
+    {
+        "away-team": "England",
+        "away_score": "3",
+        "country": "Japan",
+        "date": "2002-06-15",
+        "home_score": "0",
+        "home_team": "Denmark",
+        "year": "2002"
+    },
+    {
+        "away-team": "Paraguay",
+        "away_score": "0",
+        "country": "Korea Republic",
+        "date": "2002-06-15",
+        "home_score": "1",
+        "home_team": "Germany",
+        "year": "2002"
+    },
+    {
+        "away-team": "Ireland",
+        "away_score": "1",
+        "country": "Korea Republic",
+        "date": "2002-06-16",
+        "home_score": "1",
+        "home_team": "Spain",
+        "year": "2002"
+    },
+    {
+        "away-team": "Senegal",
+        "away_score": "2",
+        "country": "Japan",
+        "date": "2002-06-16",
+        "home_score": "1",
+        "home_team": "Sweden",
+        "year": "2002"
+    },
+    {
+        "away-team": "Belgium",
+        "away_score": "0",
+        "country": "Japan",
+        "date": "2002-06-17",
+        "home_score": "2",
+        "home_team": "Brazil",
+        "year": "2002"
+    },
+    {
+        "away-team": "USA",
+        "away_score": "2",
+        "country": "Korea Republic",
+        "date": "2002-06-17",
+        "home_score": "0",
+        "home_team": "Mexico",
+        "year": "2002"
+    },
+    {
+        "away-team": "Turkey",
+        "away_score": "1",
+        "country": "Japan",
+        "date": "2002-06-18",
+        "home_score": "0",
+        "home_team": "Japan",
+        "year": "2002"
+    },
+    {
+        "away-team": "Italy",
+        "away_score": "1",
+        "country": "Korea Republic",
+        "date": "2002-06-18",
+        "home_score": "2",
+        "home_team": "Korea Republic",
+        "year": "2002"
+    },
+    {
+        "away-team": "Brazil",
+        "away_score": "2",
+        "country": "Japan",
+        "date": "2002-06-21",
+        "home_score": "1",
+        "home_team": "England",
+        "year": "2002"
+    },
+    {
+        "away-team": "USA",
+        "away_score": "0",
+        "country": "Korea Republic",
+        "date": "2002-06-21",
+        "home_score": "1",
+        "home_team": "Germany",
+        "year": "2002"
+    },
+    {
+        "away-team": "Spain",
+        "away_score": "0",
+        "country": "Korea Republic",
+        "date": "2002-06-22",
+        "home_score": "0",
+        "home_team": "Korea Republic",
+        "year": "2002"
+    },
+    {
+        "away-team": "Turkey",
+        "away_score": "1",
+        "country": "Japan",
+        "date": "2002-06-22",
+        "home_score": "0",
+        "home_team": "Senegal",
+        "year": "2002"
+    },
+    {
+        "away-team": "Germany",
+        "away_score": "1",
+        "country": "Korea Republic",
+        "date": "2002-06-25",
+        "home_score": "0",
+        "home_team": "Korea Republic",
+        "year": "2002"
+    },
+    {
+        "away-team": "Turkey",
+        "away_score": "0",
+        "country": "Japan",
+        "date": "2002-06-26",
+        "home_score": "1",
+        "home_team": "Brazil",
+        "year": "2002"
+    },
+    {
+        "away-team": "Turkey",
+        "away_score": "3",
+        "country": "Korea Republic",
+        "date": "2002-06-29",
+        "home_score": "2",
+        "home_team": "Korea Republic",
+        "year": "2002"
+    },
+    {
+        "away-team": "Brazil",
+        "away_score": "2",
+        "country": "Japan",
+        "date": "2002-06-30",
+        "home_score": "0",
+        "home_team": "Germany",
+        "year": "2002"
+    },
+    {
+        "away-team": "Costa Rica",
+        "away_score": "2",
+        "country": "Germany",
+        "date": "2006-06-09",
+        "home_score": "4",
+        "home_team": "Germany",
+        "year": "2006"
+    },
+    {
+        "away-team": "Ecuador",
+        "away_score": "2",
+        "country": "Germany",
+        "date": "2006-06-09",
+        "home_score": "0",
+        "home_team": "Poland",
+        "year": "2006"
+    },
+    {
+        "away-team": "Ivory Coast",
+        "away_score": "1",
+        "country": "Germany",
+        "date": "2006-06-10",
+        "home_score": "2",
+        "home_team": "Argentina",
+        "year": "2006"
+    },
+    {
+        "away-team": "Paraguay",
+        "away_score": "0",
+        "country": "Germany",
+        "date": "2006-06-10",
+        "home_score": "1",
+        "home_team": "England",
+        "year": "2006"
+    },
+    {
+        "away-team": "Sweden",
+        "away_score": "0",
+        "country": "Germany",
+        "date": "2006-06-10",
+        "home_score": "0",
+        "home_team": "Trinidad and Tobago",
+        "year": "2006"
+    },
+    {
+        "away-team": "Portugal",
+        "away_score": "1",
+        "country": "Germany",
+        "date": "2006-06-11",
+        "home_score": "0",
+        "home_team": "Angola",
+        "year": "2006"
+    },
+    {
+        "away-team": "Iran",
+        "away_score": "1",
+        "country": "Germany",
+        "date": "2006-06-11",
+        "home_score": "3",
+        "home_team": "Mexico",
+        "year": "2006"
+    },
+    {
+        "away-team": "Netherlands",
+        "away_score": "1",
+        "country": "Germany",
+        "date": "2006-06-11",
+        "home_score": "0",
+        "home_team": "Serbia",
+        "year": "2006"
+    },
+    {
+        "away-team": "Japan",
+        "away_score": "1",
+        "country": "Germany",
+        "date": "2006-06-12",
+        "home_score": "3",
+        "home_team": "Australia",
+        "year": "2006"
+    },
+    {
+        "away-team": "Ghana",
+        "away_score": "0",
+        "country": "Germany",
+        "date": "2006-06-12",
+        "home_score": "2",
+        "home_team": "Italy",
+        "year": "2006"
+    },
+    {
+        "away-team": "Czech Republic",
+        "away_score": "3",
+        "country": "Germany",
+        "date": "2006-06-12",
+        "home_score": "0",
+        "home_team": "USA",
+        "year": "2006"
+    },
+    {
+        "away-team": "Croatia",
+        "away_score": "0",
+        "country": "Germany",
+        "date": "2006-06-13",
+        "home_score": "1",
+        "home_team": "Brazil",
+        "year": "2006"
+    },
+    {
+        "away-team": "Switzerland",
+        "away_score": "0",
+        "country": "Germany",
+        "date": "2006-06-13",
+        "home_score": "0",
+        "home_team": "France",
+        "year": "2006"
+    },
+    {
+        "away-team": "Togo",
+        "away_score": "1",
+        "country": "Germany",
+        "date": "2006-06-13",
+        "home_score": "2",
+        "home_team": "Korea Republic",
+        "year": "2006"
+    },
+    {
+        "away-team": "Poland",
+        "away_score": "0",
+        "country": "Germany",
+        "date": "2006-06-14",
+        "home_score": "1",
+        "home_team": "Germany",
+        "year": "2006"
+    },
+    {
+        "away-team": "Ukraine",
+        "away_score": "0",
+        "country": "Germany",
+        "date": "2006-06-14",
+        "home_score": "4",
+        "home_team": "Spain",
+        "year": "2006"
+    },
+    {
+        "away-team": "Saudi Arabia",
+        "away_score": "2",
+        "country": "Germany",
+        "date": "2006-06-14",
+        "home_score": "2",
+        "home_team": "Tunisia",
+        "year": "2006"
+    },
+    {
+        "away-team": "Costa Rica",
+        "away_score": "0",
+        "country": "Germany",
+        "date": "2006-06-15",
+        "home_score": "3",
+        "home_team": "Ecuador",
+        "year": "2006"
+    },
+    {
+        "away-team": "Trinidad and Tobago",
+        "away_score": "0",
+        "country": "Germany",
+        "date": "2006-06-15",
+        "home_score": "2",
+        "home_team": "England",
+        "year": "2006"
+    },
+    {
+        "away-team": "Paraguay",
+        "away_score": "0",
+        "country": "Germany",
+        "date": "2006-06-15",
+        "home_score": "1",
+        "home_team": "Sweden",
+        "year": "2006"
+    },
+    {
+        "away-team": "Serbia",
+        "away_score": "0",
+        "country": "Germany",
+        "date": "2006-06-16",
+        "home_score": "6",
+        "home_team": "Argentina",
+        "year": "2006"
+    },
+    {
+        "away-team": "Angola",
+        "away_score": "0",
+        "country": "Germany",
+        "date": "2006-06-16",
+        "home_score": "0",
+        "home_team": "Mexico",
+        "year": "2006"
+    },
+    {
+        "away-team": "Ivory Coast",
+        "away_score": "1",
+        "country": "Germany",
+        "date": "2006-06-16",
+        "home_score": "2",
+        "home_team": "Netherlands",
+        "year": "2006"
+    },
+    {
+        "away-team": "Ghana",
+        "away_score": "2",
+        "country": "Germany",
+        "date": "2006-06-17",
+        "home_score": "0",
+        "home_team": "Czech Republic",
+        "year": "2006"
+    },
+    {
+        "away-team": "USA",
+        "away_score": "1",
+        "country": "Germany",
+        "date": "2006-06-17",
+        "home_score": "1",
+        "home_team": "Italy",
+        "year": "2006"
+    },
+    {
+        "away-team": "Iran",
+        "away_score": "0",
+        "country": "Germany",
+        "date": "2006-06-17",
+        "home_score": "2",
+        "home_team": "Portugal",
+        "year": "2006"
+    },
+    {
+        "away-team": "Australia",
+        "away_score": "0",
+        "country": "Germany",
+        "date": "2006-06-18",
+        "home_score": "2",
+        "home_team": "Brazil",
+        "year": "2006"
+    },
+    {
+        "away-team": "Korea Republic",
+        "away_score": "1",
+        "country": "Germany",
+        "date": "2006-06-18",
+        "home_score": "1",
+        "home_team": "France",
+        "year": "2006"
+    },
+    {
+        "away-team": "Croatia",
+        "away_score": "0",
+        "country": "Germany",
+        "date": "2006-06-18",
+        "home_score": "0",
+        "home_team": "Japan",
+        "year": "2006"
+    },
+    {
+        "away-team": "Ukraine",
+        "away_score": "4",
+        "country": "Germany",
+        "date": "2006-06-19",
+        "home_score": "0",
+        "home_team": "Saudi Arabia",
+        "year": "2006"
+    },
+    {
+        "away-team": "Tunisia",
+        "away_score": "1",
+        "country": "Germany",
+        "date": "2006-06-19",
+        "home_score": "3",
+        "home_team": "Spain",
+        "year": "2006"
+    },
+    {
+        "away-team": "Switzerland",
+        "away_score": "2",
+        "country": "Germany",
+        "date": "2006-06-19",
+        "home_score": "0",
+        "home_team": "Togo",
+        "year": "2006"
+    },
+    {
+        "away-team": "Poland",
+        "away_score": "2",
+        "country": "Germany",
+        "date": "2006-06-20",
+        "home_score": "1",
+        "home_team": "Costa Rica",
+        "year": "2006"
+    },
+    {
+        "away-team": "Ecuador",
+        "away_score": "0",
+        "country": "Germany",
+        "date": "2006-06-20",
+        "home_score": "3",
+        "home_team": "Germany",
+        "year": "2006"
+    },
+    {
+        "away-team": "Trinidad and Tobago",
+        "away_score": "0",
+        "country": "Germany",
+        "date": "2006-06-20",
+        "home_score": "2",
+        "home_team": "Paraguay",
+        "year": "2006"
+    },
+    {
+        "away-team": "England",
+        "away_score": "2",
+        "country": "Germany",
+        "date": "2006-06-20",
+        "home_score": "2",
+        "home_team": "Sweden",
+        "year": "2006"
+    },
+    {
+        "away-team": "Angola",
+        "away_score": "1",
+        "country": "Germany",
+        "date": "2006-06-21",
+        "home_score": "1",
+        "home_team": "Iran",
+        "year": "2006"
+    },
+    {
+        "away-team": "Serbia",
+        "away_score": "2",
+        "country": "Germany",
+        "date": "2006-06-21",
+        "home_score": "3",
+        "home_team": "Ivory Coast",
+        "year": "2006"
+    },
+    {
+        "away-team": "Argentina",
+        "away_score": "0",
+        "country": "Germany",
+        "date": "2006-06-21",
+        "home_score": "0",
+        "home_team": "Netherlands",
+        "year": "2006"
+    },
+    {
+        "away-team": "Mexico",
+        "away_score": "1",
+        "country": "Germany",
+        "date": "2006-06-21",
+        "home_score": "2",
+        "home_team": "Portugal",
+        "year": "2006"
+    },
+    {
+        "away-team": "Australia",
+        "away_score": "2",
+        "country": "Germany",
+        "date": "2006-06-22",
+        "home_score": "2",
+        "home_team": "Croatia",
+        "year": "2006"
+    },
+    {
+        "away-team": "Italy",
+        "away_score": "2",
+        "country": "Germany",
+        "date": "2006-06-22",
+        "home_score": "0",
+        "home_team": "Czech Republic",
+        "year": "2006"
+    },
+    {
+        "away-team": "USA",
+        "away_score": "1",
+        "country": "Germany",
+        "date": "2006-06-22",
+        "home_score": "2",
+        "home_team": "Ghana",
+        "year": "2006"
+    },
+    {
+        "away-team": "Brazil",
+        "away_score": "4",
+        "country": "Germany",
+        "date": "2006-06-22",
+        "home_score": "1",
+        "home_team": "Japan",
+        "year": "2006"
+    },
+    {
+        "away-team": "Spain",
+        "away_score": "1",
+        "country": "Germany",
+        "date": "2006-06-23",
+        "home_score": "0",
+        "home_team": "Saudi Arabia",
+        "year": "2006"
+    },
+    {
+        "away-team": "Korea Republic",
+        "away_score": "0",
+        "country": "Germany",
+        "date": "2006-06-23",
+        "home_score": "2",
+        "home_team": "Switzerland",
+        "year": "2006"
+    },
+    {
+        "away-team": "France",
+        "away_score": "2",
+        "country": "Germany",
+        "date": "2006-06-23",
+        "home_score": "0",
+        "home_team": "Togo",
+        "year": "2006"
+    },
+    {
+        "away-team": "Tunisia",
+        "away_score": "0",
+        "country": "Germany",
+        "date": "2006-06-23",
+        "home_score": "1",
+        "home_team": "Ukraine",
+        "year": "2006"
+    },
+    {
+        "away-team": "Mexico",
+        "away_score": "1",
+        "country": "Germany",
+        "date": "2006-06-24",
+        "home_score": "2",
+        "home_team": "Argentina",
+        "year": "2006"
+    },
+    {
+        "away-team": "Sweden",
+        "away_score": "0",
+        "country": "Germany",
+        "date": "2006-06-24",
+        "home_score": "2",
+        "home_team": "Germany",
+        "year": "2006"
+    },
+    {
+        "away-team": "Ecuador",
+        "away_score": "0",
+        "country": "Germany",
+        "date": "2006-06-25",
+        "home_score": "1",
+        "home_team": "England",
+        "year": "2006"
+    },
+    {
+        "away-team": "Netherlands",
+        "away_score": "0",
+        "country": "Germany",
+        "date": "2006-06-25",
+        "home_score": "1",
+        "home_team": "Portugal",
+        "year": "2006"
+    },
+    {
+        "away-team": "Australia",
+        "away_score": "0",
+        "country": "Germany",
+        "date": "2006-06-26",
+        "home_score": "1",
+        "home_team": "Italy",
+        "year": "2006"
+    },
+    {
+        "away-team": "Ukraine",
+        "away_score": "0",
+        "country": "Germany",
+        "date": "2006-06-26",
+        "home_score": "0",
+        "home_team": "Switzerland",
+        "year": "2006"
+    },
+    {
+        "away-team": "Ghana",
+        "away_score": "0",
+        "country": "Germany",
+        "date": "2006-06-27",
+        "home_score": "3",
+        "home_team": "Brazil",
+        "year": "2006"
+    },
+    {
+        "away-team": "France",
+        "away_score": "3",
+        "country": "Germany",
+        "date": "2006-06-27",
+        "home_score": "1",
+        "home_team": "Spain",
+        "year": "2006"
+    },
+    {
+        "away-team": "Argentina",
+        "away_score": "1",
+        "country": "Germany",
+        "date": "2006-06-30",
+        "home_score": "1",
+        "home_team": "Germany",
+        "year": "2006"
+    },
+    {
+        "away-team": "Ukraine",
+        "away_score": "0",
+        "country": "Germany",
+        "date": "2006-06-30",
+        "home_score": "3",
+        "home_team": "Italy",
+        "year": "2006"
+    },
+    {
+        "away-team": "France",
+        "away_score": "1",
+        "country": "Germany",
+        "date": "2006-07-01",
+        "home_score": "0",
+        "home_team": "Brazil",
+        "year": "2006"
+    },
+    {
+        "away-team": "Portugal",
+        "away_score": "0",
+        "country": "Germany",
+        "date": "2006-07-01",
+        "home_score": "0",
+        "home_team": "England",
+        "year": "2006"
+    },
+    {
+        "away-team": "Italy",
+        "away_score": "2",
+        "country": "Germany",
+        "date": "2006-07-04",
+        "home_score": "0",
+        "home_team": "Germany",
+        "year": "2006"
+    },
+    {
+        "away-team": "France",
+        "away_score": "1",
+        "country": "Germany",
+        "date": "2006-07-05",
+        "home_score": "0",
+        "home_team": "Portugal",
+        "year": "2006"
+    },
+    {
+        "away-team": "Portugal",
+        "away_score": "1",
+        "country": "Germany",
+        "date": "2006-07-08",
+        "home_score": "3",
+        "home_team": "Germany",
+        "year": "2006"
+    },
+    {
+        "away-team": "France",
+        "away_score": "1",
+        "country": "Germany",
+        "date": "2006-07-09",
+        "home_score": "1",
+        "home_team": "Italy",
+        "year": "2006"
+    },
+    {
+        "away-team": "Mexico",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-06-11",
+        "home_score": "1",
+        "home_team": "South Africa",
+        "year": "2010"
+    },
+    {
+        "away-team": "France",
+        "away_score": "0",
+        "country": "South Africa",
+        "date": "2010-06-11",
+        "home_score": "0",
+        "home_team": "Uruguay",
+        "year": "2010"
+    },
+    {
+        "away-team": "Nigeria",
+        "away_score": "0",
+        "country": "South Africa",
+        "date": "2010-06-12",
+        "home_score": "1",
+        "home_team": "Argentina",
+        "year": "2010"
+    },
+    {
+        "away-team": "USA",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-06-12",
+        "home_score": "1",
+        "home_team": "England",
+        "year": "2010"
+    },
+    {
+        "away-team": "Greece",
+        "away_score": "0",
+        "country": "South Africa",
+        "date": "2010-06-12",
+        "home_score": "2",
+        "home_team": "Korea Republic",
+        "year": "2010"
+    },
+    {
+        "away-team": "Slovenia",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-06-13",
+        "home_score": "0",
+        "home_team": "Algeria",
+        "year": "2010"
+    },
+    {
+        "away-team": "Australia",
+        "away_score": "0",
+        "country": "South Africa",
+        "date": "2010-06-13",
+        "home_score": "4",
+        "home_team": "Germany",
+        "year": "2010"
+    },
+    {
+        "away-team": "Ghana",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-06-13",
+        "home_score": "0",
+        "home_team": "Serbia",
+        "year": "2010"
+    },
+    {
+        "away-team": "Paraguay",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-06-14",
+        "home_score": "1",
+        "home_team": "Italy",
+        "year": "2010"
+    },
+    {
+        "away-team": "Cameroon",
+        "away_score": "0",
+        "country": "South Africa",
+        "date": "2010-06-14",
+        "home_score": "1",
+        "home_team": "Japan",
+        "year": "2010"
+    },
+    {
+        "away-team": "Denmark",
+        "away_score": "0",
+        "country": "South Africa",
+        "date": "2010-06-14",
+        "home_score": "2",
+        "home_team": "Netherlands",
+        "year": "2010"
+    },
+    {
+        "away-team": "Korea DPR",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-06-15",
+        "home_score": "2",
+        "home_team": "Brazil",
+        "year": "2010"
+    },
+    {
+        "away-team": "Portugal",
+        "away_score": "0",
+        "country": "South Africa",
+        "date": "2010-06-15",
+        "home_score": "0",
+        "home_team": "Ivory Coast",
+        "year": "2010"
+    },
+    {
+        "away-team": "Slovakia",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-06-15",
+        "home_score": "1",
+        "home_team": "New Zealand",
+        "year": "2010"
+    },
+    {
+        "away-team": "Chile",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-06-16",
+        "home_score": "0",
+        "home_team": "Honduras",
+        "year": "2010"
+    },
+    {
+        "away-team": "Uruguay",
+        "away_score": "3",
+        "country": "South Africa",
+        "date": "2010-06-16",
+        "home_score": "0",
+        "home_team": "South Africa",
+        "year": "2010"
+    },
+    {
+        "away-team": "Switzerland",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-06-16",
+        "home_score": "0",
+        "home_team": "Spain",
+        "year": "2010"
+    },
+    {
+        "away-team": "Korea Republic",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-06-17",
+        "home_score": "4",
+        "home_team": "Argentina",
+        "year": "2010"
+    },
+    {
+        "away-team": "Mexico",
+        "away_score": "2",
+        "country": "South Africa",
+        "date": "2010-06-17",
+        "home_score": "0",
+        "home_team": "France",
+        "year": "2010"
+    },
+    {
+        "away-team": "Nigeria",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-06-17",
+        "home_score": "2",
+        "home_team": "Greece",
+        "year": "2010"
+    },
+    {
+        "away-team": "Algeria",
+        "away_score": "0",
+        "country": "South Africa",
+        "date": "2010-06-18",
+        "home_score": "0",
+        "home_team": "England",
+        "year": "2010"
+    },
+    {
+        "away-team": "Serbia",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-06-18",
+        "home_score": "0",
+        "home_team": "Germany",
+        "year": "2010"
+    },
+    {
+        "away-team": "USA",
+        "away_score": "2",
+        "country": "South Africa",
+        "date": "2010-06-18",
+        "home_score": "2",
+        "home_team": "Slovenia",
+        "year": "2010"
+    },
+    {
+        "away-team": "Denmark",
+        "away_score": "2",
+        "country": "South Africa",
+        "date": "2010-06-19",
+        "home_score": "1",
+        "home_team": "Cameroon",
+        "year": "2010"
+    },
+    {
+        "away-team": "Australia",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-06-19",
+        "home_score": "1",
+        "home_team": "Ghana",
+        "year": "2010"
+    },
+    {
+        "away-team": "Japan",
+        "away_score": "0",
+        "country": "South Africa",
+        "date": "2010-06-19",
+        "home_score": "1",
+        "home_team": "Netherlands",
+        "year": "2010"
+    },
+    {
+        "away-team": "Ivory Coast",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-06-20",
+        "home_score": "3",
+        "home_team": "Brazil",
+        "year": "2010"
+    },
+    {
+        "away-team": "New Zealand",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-06-20",
+        "home_score": "1",
+        "home_team": "Italy",
+        "year": "2010"
+    },
+    {
+        "away-team": "Paraguay",
+        "away_score": "2",
+        "country": "South Africa",
+        "date": "2010-06-20",
+        "home_score": "0",
+        "home_team": "Slovakia",
+        "year": "2010"
+    },
+    {
+        "away-team": "Switzerland",
+        "away_score": "0",
+        "country": "South Africa",
+        "date": "2010-06-21",
+        "home_score": "1",
+        "home_team": "Chile",
+        "year": "2010"
+    },
+    {
+        "away-team": "Korea DPR",
+        "away_score": "0",
+        "country": "South Africa",
+        "date": "2010-06-21",
+        "home_score": "7",
+        "home_team": "Portugal",
+        "year": "2010"
+    },
+    {
+        "away-team": "Honduras",
+        "away_score": "0",
+        "country": "South Africa",
+        "date": "2010-06-21",
+        "home_score": "2",
+        "home_team": "Spain",
+        "year": "2010"
+    },
+    {
+        "away-team": "Argentina",
+        "away_score": "2",
+        "country": "South Africa",
+        "date": "2010-06-22",
+        "home_score": "0",
+        "home_team": "Greece",
+        "year": "2010"
+    },
+    {
+        "away-team": "Uruguay",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-06-22",
+        "home_score": "0",
+        "home_team": "Mexico",
+        "year": "2010"
+    },
+    {
+        "away-team": "Korea Republic",
+        "away_score": "2",
+        "country": "South Africa",
+        "date": "2010-06-22",
+        "home_score": "2",
+        "home_team": "Nigeria",
+        "year": "2010"
+    },
+    {
+        "away-team": "France",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-06-22",
+        "home_score": "2",
+        "home_team": "South Africa",
+        "year": "2010"
+    },
+    {
+        "away-team": "Serbia",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-06-23",
+        "home_score": "2",
+        "home_team": "Australia",
+        "year": "2010"
+    },
+    {
+        "away-team": "Germany",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-06-23",
+        "home_score": "0",
+        "home_team": "Ghana",
+        "year": "2010"
+    },
+    {
+        "away-team": "England",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-06-23",
+        "home_score": "0",
+        "home_team": "Slovenia",
+        "year": "2010"
+    },
+    {
+        "away-team": "Algeria",
+        "away_score": "0",
+        "country": "South Africa",
+        "date": "2010-06-23",
+        "home_score": "1",
+        "home_team": "USA",
+        "year": "2010"
+    },
+    {
+        "away-team": "Netherlands",
+        "away_score": "2",
+        "country": "South Africa",
+        "date": "2010-06-24",
+        "home_score": "1",
+        "home_team": "Cameroon",
+        "year": "2010"
+    },
+    {
+        "away-team": "Japan",
+        "away_score": "3",
+        "country": "South Africa",
+        "date": "2010-06-24",
+        "home_score": "1",
+        "home_team": "Denmark",
+        "year": "2010"
+    },
+    {
+        "away-team": "New Zealand",
+        "away_score": "0",
+        "country": "South Africa",
+        "date": "2010-06-24",
+        "home_score": "0",
+        "home_team": "Paraguay",
+        "year": "2010"
+    },
+    {
+        "away-team": "Italy",
+        "away_score": "2",
+        "country": "South Africa",
+        "date": "2010-06-24",
+        "home_score": "3",
+        "home_team": "Slovakia",
+        "year": "2010"
+    },
+    {
+        "away-team": "Spain",
+        "away_score": "2",
+        "country": "South Africa",
+        "date": "2010-06-25",
+        "home_score": "1",
+        "home_team": "Chile",
+        "year": "2010"
+    },
+    {
+        "away-team": "Ivory Coast",
+        "away_score": "3",
+        "country": "South Africa",
+        "date": "2010-06-25",
+        "home_score": "0",
+        "home_team": "Korea DPR",
+        "year": "2010"
+    },
+    {
+        "away-team": "Brazil",
+        "away_score": "0",
+        "country": "South Africa",
+        "date": "2010-06-25",
+        "home_score": "0",
+        "home_team": "Portugal",
+        "year": "2010"
+    },
+    {
+        "away-team": "Honduras",
+        "away_score": "0",
+        "country": "South Africa",
+        "date": "2010-06-25",
+        "home_score": "0",
+        "home_team": "Switzerland",
+        "year": "2010"
+    },
+    {
+        "away-team": "Korea Republic",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-06-26",
+        "home_score": "2",
+        "home_team": "Uruguay",
+        "year": "2010"
+    },
+    {
+        "away-team": "Ghana",
+        "away_score": "2",
+        "country": "South Africa",
+        "date": "2010-06-26",
+        "home_score": "1",
+        "home_team": "USA",
+        "year": "2010"
+    },
+    {
+        "away-team": "Mexico",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-06-27",
+        "home_score": "3",
+        "home_team": "Argentina",
+        "year": "2010"
+    },
+    {
+        "away-team": "England",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-06-27",
+        "home_score": "4",
+        "home_team": "Germany",
+        "year": "2010"
+    },
+    {
+        "away-team": "Chile",
+        "away_score": "0",
+        "country": "South Africa",
+        "date": "2010-06-28",
+        "home_score": "3",
+        "home_team": "Brazil",
+        "year": "2010"
+    },
+    {
+        "away-team": "Slovakia",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-06-28",
+        "home_score": "2",
+        "home_team": "Netherlands",
+        "year": "2010"
+    },
+    {
+        "away-team": "Japan",
+        "away_score": "0",
+        "country": "South Africa",
+        "date": "2010-06-29",
+        "home_score": "0",
+        "home_team": "Paraguay",
+        "year": "2010"
+    },
+    {
+        "away-team": "Portugal",
+        "away_score": "0",
+        "country": "South Africa",
+        "date": "2010-06-29",
+        "home_score": "1",
+        "home_team": "Spain",
+        "year": "2010"
+    },
+    {
+        "away-team": "Brazil",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-07-02",
+        "home_score": "2",
+        "home_team": "Netherlands",
+        "year": "2010"
+    },
+    {
+        "away-team": "Ghana",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-07-02",
+        "home_score": "1",
+        "home_team": "Uruguay",
+        "year": "2010"
+    },
+    {
+        "away-team": "Germany",
+        "away_score": "4",
+        "country": "South Africa",
+        "date": "2010-07-03",
+        "home_score": "0",
+        "home_team": "Argentina",
+        "year": "2010"
+    },
+    {
+        "away-team": "Spain",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-07-03",
+        "home_score": "0",
+        "home_team": "Paraguay",
+        "year": "2010"
+    },
+    {
+        "away-team": "Netherlands",
+        "away_score": "3",
+        "country": "South Africa",
+        "date": "2010-07-06",
+        "home_score": "2",
+        "home_team": "Uruguay",
+        "year": "2010"
+    },
+    {
+        "away-team": "Spain",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-07-07",
+        "home_score": "0",
+        "home_team": "Germany",
+        "year": "2010"
+    },
+    {
+        "away-team": "Germany",
+        "away_score": "3",
+        "country": "South Africa",
+        "date": "2010-07-10",
+        "home_score": "2",
+        "home_team": "Uruguay",
+        "year": "2010"
+    },
+    {
+        "away-team": "Spain",
+        "away_score": "1",
+        "country": "South Africa",
+        "date": "2010-07-11",
+        "home_score": "0",
+        "home_team": "Netherlands",
+        "year": "2010"
+    },
+    {
+        "away-team": "Croatia",
+        "away_score": "1",
+        "country": "Brazil",
+        "date": "2014-06-12",
+        "home_score": "3",
+        "home_team": "Brazil",
+        "year": "2014"
+    },
+    {
+        "away-team": "Australia",
+        "away_score": "1",
+        "country": "Brazil",
+        "date": "2014-06-13",
+        "home_score": "3",
+        "home_team": "Chile",
+        "year": "2014"
+    },
+    {
+        "away-team": "Cameroon",
+        "away_score": "0",
+        "country": "Brazil",
+        "date": "2014-06-13",
+        "home_score": "1",
+        "home_team": "Mexico",
+        "year": "2014"
+    },
+    {
+        "away-team": "Netherlands",
+        "away_score": "5",
+        "country": "Brazil",
+        "date": "2014-06-13",
+        "home_score": "1",
+        "home_team": "Spain",
+        "year": "2014"
+    },
+    {
+        "away-team": "Greece",
+        "away_score": "0",
+        "country": "Brazil",
+        "date": "2014-06-14",
+        "home_score": "3",
+        "home_team": "Colombia",
+        "year": "2014"
+    },
+    {
+        "away-team": "Italy",
+        "away_score": "2",
+        "country": "Brazil",
+        "date": "2014-06-14",
+        "home_score": "1",
+        "home_team": "England",
+        "year": "2014"
+    },
+    {
+        "away-team": "Japan",
+        "away_score": "1",
+        "country": "Brazil",
+        "date": "2014-06-14",
+        "home_score": "2",
+        "home_team": "Ivory Coast",
+        "year": "2014"
+    },
+    {
+        "away-team": "Costa Rica",
+        "away_score": "3",
+        "country": "Brazil",
+        "date": "2014-06-14",
+        "home_score": "1",
+        "home_team": "Uruguay",
+        "year": "2014"
+    },
+    {
+        "away-team": "Bosnia-Herzegovina",
+        "away_score": "1",
+        "country": "Brazil",
+        "date": "2014-06-15",
+        "home_score": "2",
+        "home_team": "Argentina",
+        "year": "2014"
+    },
+    {
+        "away-team": "Honduras",
+        "away_score": "0",
+        "country": "Brazil",
+        "date": "2014-06-15",
+        "home_score": "3",
+        "home_team": "France",
+        "year": "2014"
+    },
+    {
+        "away-team": "Ecuador",
+        "away_score": "1",
+        "country": "Brazil",
+        "date": "2014-06-15",
+        "home_score": "2",
+        "home_team": "Switzerland",
+        "year": "2014"
+    },
+    {
+        "away-team": "Portugal",
+        "away_score": "0",
+        "country": "Brazil",
+        "date": "2014-06-16",
+        "home_score": "4",
+        "home_team": "Germany",
+        "year": "2014"
+    },
+    {
+        "away-team": "USA",
+        "away_score": "2",
+        "country": "Brazil",
+        "date": "2014-06-16",
+        "home_score": "1",
+        "home_team": "Ghana",
+        "year": "2014"
+    },
+    {
+        "away-team": "Nigeria",
+        "away_score": "0",
+        "country": "Brazil",
+        "date": "2014-06-16",
+        "home_score": "0",
+        "home_team": "Iran",
+        "year": "2014"
+    },
+    {
+        "away-team": "Algeria",
+        "away_score": "1",
+        "country": "Brazil",
+        "date": "2014-06-17",
+        "home_score": "2",
+        "home_team": "Belgium",
+        "year": "2014"
+    },
+    {
+        "away-team": "Mexico",
+        "away_score": "0",
+        "country": "Brazil",
+        "date": "2014-06-17",
+        "home_score": "0",
+        "home_team": "Brazil",
+        "year": "2014"
+    },
+    {
+        "away-team": "Korea Republic",
+        "away_score": "1",
+        "country": "Brazil",
+        "date": "2014-06-17",
+        "home_score": "1",
+        "home_team": "Russia",
+        "year": "2014"
+    },
+    {
+        "away-team": "Netherlands",
+        "away_score": "3",
+        "country": "Brazil",
+        "date": "2014-06-18",
+        "home_score": "2",
+        "home_team": "Australia",
+        "year": "2014"
+    },
+    {
+        "away-team": "Croatia",
+        "away_score": "4",
+        "country": "Brazil",
+        "date": "2014-06-18",
+        "home_score": "0",
+        "home_team": "Cameroon",
+        "year": "2014"
+    },
+    {
+        "away-team": "Chile",
+        "away_score": "2",
+        "country": "Brazil",
+        "date": "2014-06-18",
+        "home_score": "0",
+        "home_team": "Spain",
+        "year": "2014"
+    },
+    {
+        "away-team": "Ivory Coast",
+        "away_score": "1",
+        "country": "Brazil",
+        "date": "2014-06-19",
+        "home_score": "2",
+        "home_team": "Colombia",
+        "year": "2014"
+    },
+    {
+        "away-team": "Greece",
+        "away_score": "0",
+        "country": "Brazil",
+        "date": "2014-06-19",
+        "home_score": "0",
+        "home_team": "Japan",
+        "year": "2014"
+    },
+    {
+        "away-team": "England",
+        "away_score": "1",
+        "country": "Brazil",
+        "date": "2014-06-19",
+        "home_score": "2",
+        "home_team": "Uruguay",
+        "year": "2014"
+    },
+    {
+        "away-team": "Ecuador",
+        "away_score": "2",
+        "country": "Brazil",
+        "date": "2014-06-20",
+        "home_score": "1",
+        "home_team": "Honduras",
+        "year": "2014"
+    },
+    {
+        "away-team": "Costa Rica",
+        "away_score": "1",
+        "country": "Brazil",
+        "date": "2014-06-20",
+        "home_score": "0",
+        "home_team": "Italy",
+        "year": "2014"
+    },
+    {
+        "away-team": "France",
+        "away_score": "5",
+        "country": "Brazil",
+        "date": "2014-06-20",
+        "home_score": "2",
+        "home_team": "Switzerland",
+        "year": "2014"
+    },
+    {
+        "away-team": "Iran",
+        "away_score": "0",
+        "country": "Brazil",
+        "date": "2014-06-21",
+        "home_score": "1",
+        "home_team": "Argentina",
+        "year": "2014"
+    },
+    {
+        "away-team": "Ghana",
+        "away_score": "2",
+        "country": "Brazil",
+        "date": "2014-06-21",
+        "home_score": "2",
+        "home_team": "Germany",
+        "year": "2014"
+    },
+    {
+        "away-team": "Bosnia-Herzegovina",
+        "away_score": "0",
+        "country": "Brazil",
+        "date": "2014-06-21",
+        "home_score": "1",
+        "home_team": "Nigeria",
+        "year": "2014"
+    },
+    {
+        "away-team": "Russia",
+        "away_score": "0",
+        "country": "Brazil",
+        "date": "2014-06-22",
+        "home_score": "1",
+        "home_team": "Belgium",
+        "year": "2014"
+    },
+    {
+        "away-team": "Algeria",
+        "away_score": "4",
+        "country": "Brazil",
+        "date": "2014-06-22",
+        "home_score": "2",
+        "home_team": "Korea Republic",
+        "year": "2014"
+    },
+    {
+        "away-team": "Portugal",
+        "away_score": "2",
+        "country": "Brazil",
+        "date": "2014-06-22",
+        "home_score": "2",
+        "home_team": "USA",
+        "year": "2014"
+    },
+    {
+        "away-team": "Spain",
+        "away_score": "3",
+        "country": "Brazil",
+        "date": "2014-06-23",
+        "home_score": "0",
+        "home_team": "Australia",
+        "year": "2014"
+    },
+    {
+        "away-team": "Cameroon",
+        "away_score": "1",
+        "country": "Brazil",
+        "date": "2014-06-23",
+        "home_score": "4",
+        "home_team": "Brazil",
+        "year": "2014"
+    },
+    {
+        "away-team": "Mexico",
+        "away_score": "3",
+        "country": "Brazil",
+        "date": "2014-06-23",
+        "home_score": "1",
+        "home_team": "Croatia",
+        "year": "2014"
+    },
+    {
+        "away-team": "Chile",
+        "away_score": "0",
+        "country": "Brazil",
+        "date": "2014-06-23",
+        "home_score": "2",
+        "home_team": "Netherlands",
+        "year": "2014"
+    },
+    {
+        "away-team": "England",
+        "away_score": "0",
+        "country": "Brazil",
+        "date": "2014-06-24",
+        "home_score": "0",
+        "home_team": "Costa Rica",
+        "year": "2014"
+    },
+    {
+        "away-team": "Ivory Coast",
+        "away_score": "1",
+        "country": "Brazil",
+        "date": "2014-06-24",
+        "home_score": "2",
+        "home_team": "Greece",
+        "year": "2014"
+    },
+    {
+        "away-team": "Uruguay",
+        "away_score": "1",
+        "country": "Brazil",
+        "date": "2014-06-24",
+        "home_score": "0",
+        "home_team": "Italy",
+        "year": "2014"
+    },
+    {
+        "away-team": "Colombia",
+        "away_score": "4",
+        "country": "Brazil",
+        "date": "2014-06-24",
+        "home_score": "1",
+        "home_team": "Japan",
+        "year": "2014"
+    },
+    {
+        "away-team": "Iran",
+        "away_score": "1",
+        "country": "Brazil",
+        "date": "2014-06-25",
+        "home_score": "3",
+        "home_team": "Bosnia-Herzegovina",
+        "year": "2014"
+    },
+    {
+        "away-team": "France",
+        "away_score": "0",
+        "country": "Brazil",
+        "date": "2014-06-25",
+        "home_score": "0",
+        "home_team": "Ecuador",
+        "year": "2014"
+    },
+    {
+        "away-team": "Switzerland",
+        "away_score": "3",
+        "country": "Brazil",
+        "date": "2014-06-25",
+        "home_score": "0",
+        "home_team": "Honduras",
+        "year": "2014"
+    },
+    {
+        "away-team": "Argentina",
+        "away_score": "3",
+        "country": "Brazil",
+        "date": "2014-06-25",
+        "home_score": "2",
+        "home_team": "Nigeria",
+        "year": "2014"
+    },
+    {
+        "away-team": "Russia",
+        "away_score": "1",
+        "country": "Brazil",
+        "date": "2014-06-26",
+        "home_score": "1",
+        "home_team": "Algeria",
+        "year": "2014"
+    },
+    {
+        "away-team": "Belgium",
+        "away_score": "1",
+        "country": "Brazil",
+        "date": "2014-06-26",
+        "home_score": "0",
+        "home_team": "Korea Republic",
+        "year": "2014"
+    },
+    {
+        "away-team": "Ghana",
+        "away_score": "1",
+        "country": "Brazil",
+        "date": "2014-06-26",
+        "home_score": "2",
+        "home_team": "Portugal",
+        "year": "2014"
+    },
+    {
+        "away-team": "Germany",
+        "away_score": "1",
+        "country": "Brazil",
+        "date": "2014-06-26",
+        "home_score": "0",
+        "home_team": "USA",
+        "year": "2014"
+    },
+    {
+        "away-team": "Chile",
+        "away_score": "1",
+        "country": "Brazil",
+        "date": "2014-06-28",
+        "home_score": "1",
+        "home_team": "Brazil",
+        "year": "2014"
+    },
+    {
+        "away-team": "Uruguay",
+        "away_score": "0",
+        "country": "Brazil",
+        "date": "2014-06-28",
+        "home_score": "2",
+        "home_team": "Colombia",
+        "year": "2014"
+    },
+    {
+        "away-team": "Greece",
+        "away_score": "1",
+        "country": "Brazil",
+        "date": "2014-06-29",
+        "home_score": "1",
+        "home_team": "Costa Rica",
+        "year": "2014"
+    },
+    {
+        "away-team": "Mexico",
+        "away_score": "1",
+        "country": "Brazil",
+        "date": "2014-06-29",
+        "home_score": "2",
+        "home_team": "Netherlands",
+        "year": "2014"
+    },
+    {
+        "away-team": "Nigeria",
+        "away_score": "0",
+        "country": "Brazil",
+        "date": "2014-06-30",
+        "home_score": "2",
+        "home_team": "France",
+        "year": "2014"
+    },
+    {
+        "away-team": "Algeria",
+        "away_score": "1",
+        "country": "Brazil",
+        "date": "2014-06-30",
+        "home_score": "2",
+        "home_team": "Germany",
+        "year": "2014"
+    },
+    {
+        "away-team": "Switzerland",
+        "away_score": "0",
+        "country": "Brazil",
+        "date": "2014-07-01",
+        "home_score": "1",
+        "home_team": "Argentina",
+        "year": "2014"
+    },
+    {
+        "away-team": "USA",
+        "away_score": "1",
+        "country": "Brazil",
+        "date": "2014-07-01",
+        "home_score": "2",
+        "home_team": "Belgium",
+        "year": "2014"
+    },
+    {
+        "away-team": "Colombia",
+        "away_score": "1",
+        "country": "Brazil",
+        "date": "2014-07-04",
+        "home_score": "2",
+        "home_team": "Brazil",
+        "year": "2014"
+    },
+    {
+        "away-team": "Germany",
+        "away_score": "1",
+        "country": "Brazil",
+        "date": "2014-07-04",
+        "home_score": "0",
+        "home_team": "France",
+        "year": "2014"
+    },
+    {
+        "away-team": "Belgium",
+        "away_score": "0",
+        "country": "Brazil",
+        "date": "2014-07-05",
+        "home_score": "1",
+        "home_team": "Argentina",
+        "year": "2014"
+    },
+    {
+        "away-team": "Costa Rica",
+        "away_score": "0",
+        "country": "Brazil",
+        "date": "2014-07-05",
+        "home_score": "0",
+        "home_team": "Netherlands",
+        "year": "2014"
+    },
+    {
+        "away-team": "Germany",
+        "away_score": "7",
+        "country": "Brazil",
+        "date": "2014-07-08",
+        "home_score": "1",
+        "home_team": "Brazil",
+        "year": "2014"
+    },
+    {
+        "away-team": "Argentina",
+        "away_score": "0",
+        "country": "Brazil",
+        "date": "2014-07-09",
+        "home_score": "0",
+        "home_team": "Netherlands",
+        "year": "2014"
+    },
+    {
+        "away-team": "Netherlands",
+        "away_score": "3",
+        "country": "Brazil",
+        "date": "2014-07-12",
+        "home_score": "0",
+        "home_team": "Brazil",
+        "year": "2014"
+    },
+    {
+        "away-team": "Argentina",
+        "away_score": "0",
+        "country": "Brazil",
+        "date": "2014-07-13",
+        "home_score": "1",
+        "home_team": "Germany",
+        "year": "2014"
+    }
+]

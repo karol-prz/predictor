@@ -1,0 +1,65 @@
+Tournament,Game,DateTime,Group/Stage,Stadium,City,HomeTeam,AwayTeam
+Russia 2018,1, 14 Jun 2018 - 18:00,Group A,Luzhniki Stadium,Moscow,Russia,Saudi Arabia
+Russia 2018,2, 15 Jun 2018 - 17:00,Group A,Ekaterinburg Arena,Ekaterinburg,Egypt,Uruguay
+Russia 2018,3, 15 Jun 2018 - 18:00,Group B,Saint Petersburg Stadium,St. Petersburg,Morocco,IR Iran
+Russia 2018,4, 15 Jun 2018 - 21:00,Group B,Fisht Stadium,Sochi,Portugal,Spain
+Russia 2018,5, 16 Jun 2018 - 13:00,Group C,Kazan Arena,Kazan,France,Australia
+Russia 2018,6, 16 Jun 2018 - 16:00,Group D,Spartak Stadium,Moscow,Argentina,Iceland
+Russia 2018,7, 16 Jun 2018 - 19:00,Group C,Mordovia Arena,Saransk,Peru,Denmark
+Russia 2018,8, 16 Jun 2018 - 21:00,Group D,Kaliningrad Stadium,Kaliningrad,Croatia,Nigeria
+Russia 2018,9, 17 Jun 2018 - 16:00,Group E,Samara Arena,Samara,Costa Rica,Serbia
+Russia 2018,10,17 Jun 2018 - 18:00,Group F,Luzhniki Stadium,Moscow,Germany,Mexico
+Russia 2018,11,17 Jun 2018 - 21:00,Group E,Rostov Arena,Rostov-On-Don,Brazil,Switzerland
+Russia 2018,12,18 Jun 2018 - 15:00,Group F,Nizhny Novgorod Stadium,Nizhny Novgorod,Sweden,Korea Republic
+Russia 2018,13,18 Jun 2018 - 18:00,Group G,Fisht Stadium,Sochi,Belgium,Panama
+Russia 2018,14,18 Jun 2018 - 21:00,Group G,Volgograd Arena,Volgograd,Tunisia,England
+Russia 2018,15,19 Jun 2018 - 15:00,Group H,Mordovia Arena,Saransk,Colombia,Japan
+Russia 2018,16,19 Jun 2018 - 18:00,Group H,Spartak Stadium,Moscow,Poland,Senegal
+Russia 2018,17,19 Jun 2018 - 21:00,Group A,Saint Petersburg Stadium,St. Petersburg,Russia,Egypt
+Russia 2018,18,20 Jun 2018 - 15:00,Group B,Luzhniki Stadium,Moscow,Portugal,Morocco
+Russia 2018,19,20 Jun 2018 - 18:00,Group A,Rostov Arena,Rostov-On-Don,Uruguay,Saudi Arabia
+Russia 2018,20,20 Jun 2018 - 21:00,Group B,Kazan Arena,Kazan,IR Iran,Spain
+Russia 2018,21,21 Jun 2018 - 16:00,Group C,Samara Arena,Samara,Denmark,Australia
+Russia 2018,22,21 Jun 2018 - 20:00,Group C,Ekaterinburg Arena,Ekaterinburg,France,Peru
+Russia 2018,23,21 Jun 2018 - 21:00,Group D,Nizhny Novgorod Stadium,Nizhny Novgorod,Argentina,Croatia
+Russia 2018,24,22 Jun 2018 - 15:00,Group E,Saint Petersburg Stadium,St. Petersburg,Brazil,Costa Rica
+Russia 2018,25,22 Jun 2018 - 18:00,Group D,Volgograd Arena,Volgograd,Nigeria,Iceland
+Russia 2018,26,22 Jun 2018 - 20:00,Group E,Kaliningrad Stadium,Kaliningrad,Serbia,Switzerland
+Russia 2018,27,23 Jun 2018 - 15:00,Group G,Spartak Stadium,Moscow,Belgium,Tunisia
+Russia 2018,28,23 Jun 2018 - 18:00,Group F,Rostov Arena,Rostov-On-Don,Korea Republic,Mexico
+Russia 2018,29,23 Jun 2018 - 21:00,Group F,Fisht Stadium,Sochi,Germany,Sweden
+Russia 2018,30,24 Jun 2018 - 15:00,Group G,Nizhny Novgorod Stadium,Nizhny Novgorod,England,Panama
+Russia 2018,31,24 Jun 2018 - 20:00,Group H,Ekaterinburg Arena,Ekaterinburg,Japan,Senegal
+Russia 2018,32,24 Jun 2018 - 21:00,Group H,Kazan Arena,Kazan,Poland,Colombia
+Russia 2018,33,25 Jun 2018 - 18:00,Group A,Samara Arena,Samara,Uruguay,Russia
+Russia 2018,34,25 Jun 2018 - 17:00,Group A,Volgograd Arena,Volgograd,Saudi Arabia,Egypt
+Russia 2018,35,25 Jun 2018 - 20:00,Group B,Kaliningrad Stadium,Kaliningrad,Spain,Morocco
+Russia 2018,36,25 Jun 2018 - 21:00,Group B,Mordovia Arena,Saransk,IR Iran,Portugal
+Russia 2018,37,26 Jun 2018 - 17:00,Group C,Fisht Stadium,Sochi,Australia,Peru
+Russia 2018,38,26 Jun 2018 - 17:00,Group C,Luzhniki Stadium,Moscow,Denmark,France
+Russia 2018,39,26 Jun 2018 - 21:00,Group D,Saint Petersburg Stadium,St. Petersburg,Nigeria,Argentina
+Russia 2018,40,26 Jun 2018 - 21:00,Group D,Rostov Arena,Rostov-On-Don,Iceland,Croatia
+Russia 2018,41,27 Jun 2018 - 17:00,Group F,Kazan Arena,Kazan,Korea Republic,Germany
+Russia 2018,42,27 Jun 2018 - 19:00,Group F,Ekaterinburg Arena,Ekaterinburg,Mexico,Sweden
+Russia 2018,43,27 Jun 2018 - 21:00,Group E,Spartak Stadium,Moscow,Serbia,Brazil
+Russia 2018,44,27 Jun 2018 - 21:00,Group E,Nizhny Novgorod Stadium,Nizhny Novgorod,Switzerland,Costa Rica
+Russia 2018,45,28 Jun 2018 - 17:00,Group H,Volgograd Arena,Volgograd,Japan,Poland
+Russia 2018,46,28 Jun 2018 - 18:00,Group H,Samara Arena,Samara,Senegal,Colombia
+Russia 2018,47,28 Jun 2018 - 21:00,Group G,Mordovia Arena,Saransk,Panama,Tunisia
+Russia 2018,48,28 Jun 2018 - 20:00,Group G,Kaliningrad Stadium,Kaliningrad,England,Belgium
+Russia 2018,49,30 Jun 2018 - 17:00,Round of 16,Kazan Arena,Kazan,1C,2D
+Russia 2018,50,30 Jun 2018 - 21:00,Round of 16,Fisht Stadium,Sochi,1A,2B
+Russia 2018,51,01 Jul 2018 - 17:00,Round of 16,Luzhniki Stadium,Moscow,1B,2A
+Russia 2018,52,01 Jul 2018 - 21:00,Round of 16,Nizhny Novgorod Stadium,Nizhny Novgorod,1D,2C
+Russia 2018,53,02 Jul 2018 - 18:00,Round of 16,Samara Arena,Samara,1E,2F
+Russia 2018,54,02 Jul 2018 - 21:00,Round of 16,Rostov Arena,Rostov-On-Don,1G,2H
+Russia 2018,55,03 Jul 2018 - 17:00,Round of 16,Saint Petersburg Stadium,St. Petersburg,1F,2E
+Russia 2018,56,03 Jul 2018 - 21:00,Round of 16,Spartak Stadium,Moscow,1H,2G
+Russia 2018,57,06 Jul 2018 - 17:00,Quarter-finals,Nizhny Novgorod Stadium,Nizhny Novgorod,W49,W50
+Russia 2018,58,06 Jul 2018 - 21:00,Quarter-finals,Kazan Arena,Kazan,W53,W54
+Russia 2018,59,07 Jul 2018 - 18:00,Quarter-finals,Samara Arena,Samara,W55,W56
+Russia 2018,60,07 Jul 2018 - 21:00,Quarter-finals,Fisht Stadium,Sochi,W51,W52
+Russia 2018,61,10 Jul 2018 - 21:00,Semi-finals,Saint Petersburg Stadium,St. Petersburg,W57,W58
+Russia 2018,62,11 Jul 2018 - 21:00,Semi-finals,Luzhniki Stadium,Moscow,W59,W60
+Russia 2018,63,14 Jul 2018 - 17:00,Play-off for third place,Saint Petersburg Stadium,St. Petersburg,L61,L62
+Russia 2018,64,15 Jul 2018 - 18:00,Final,Luzhniki Stadium,Moscow,W61,W62

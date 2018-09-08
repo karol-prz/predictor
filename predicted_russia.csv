@@ -1,0 +1,65 @@
+Nr,Group,HomeTeam,AwayTeam,HomeScore,AwayScore,Wdl
+1,Group A,Russia,Saudi Arabia,4,0,W
+2,Group A,Egypt,Uruguay,2,4,L
+3,Group B,Morocco,IR Iran,0,2,L
+4,Group B,Portugal,Spain,1,2,L
+5,Group C,France,Australia,0,4,L
+6,Group D,Argentina,Iceland,2,0,W
+7,Group C,Peru,Denmark,1,2,L
+8,Group D,Croatia,Nigeria,1,2,L
+9,Group E,Costa Rica,Serbia,0,2,L
+10,Group F,Germany,Mexico,2,1,W
+11,Group E,Brazil,Switzerland,4,1,W
+12,Group F,Sweden,Korea Republic,2,1,W
+13,Group G,Belgium,Panama,2,0,W
+14,Group G,Tunisia,England,0,4,L
+15,Group H,Colombia,Japan,2,0,W
+16,Group H,Poland,Senegal,4,2,W
+17,Group A,Russia,Egypt,4,0,W
+18,Group B,Portugal,Morocco,2,0,W
+19,Group A,Uruguay,Saudi Arabia,2,0,W
+20,Group B,IR Iran,Spain,0,4,L
+21,Group C,Denmark,Australia,2,4,L
+22,Group C,France,Peru,0,4,L
+23,Group D,Argentina,Croatia,2,0,W
+24,Group E,Brazil,Costa Rica,4,1,W
+25,Group D,Nigeria,Iceland,4,2,W
+26,Group E,Serbia,Switzerland,0,4,L
+27,Group G,Belgium,Tunisia,4,0,W
+28,Group F,Korea Republic,Mexico,3,2,W
+29,Group F,Germany,Sweden,2,0,W
+30,Group G,England,Panama,4,0,W
+31,Group H,Japan,Senegal,2,4,L
+32,Group H,Poland,Colombia,0,4,L
+33,Group A,Uruguay,Russia,4,2,W
+34,Group A,Saudi Arabia,Egypt,1,2,L
+35,Group B,Spain,Morocco,2,0,W
+36,Group B,IR Iran,Portugal,0,4,L
+37,Group C,Australia,Peru,1,2,L
+38,Group C,Denmark,France,0,4,L
+39,Group D,Nigeria,Argentina,0,4,L
+40,Group D,Iceland,Croatia,0,2,L
+41,Group F,Korea Republic,Germany,0,4,L
+42,Group F,Mexico,Sweden,1,2,L
+43,Group E,Serbia,Brazil,0,4,L
+44,Group E,Switzerland,Costa Rica,4,0,W
+45,Group H,Japan,Poland,0,4,L
+46,Group H,Senegal,Colombia,0,4,L
+47,Group G,Panama,Tunisia,0,2,L
+48,Group G,England,Belgium,0,4,L
+49,Round of 16,Peru,Nigeria,1,2,L
+50,Round of 16,Uruguay,Portugal,0,4,L
+51,Round of 16,Spain,Russia,4,0,W
+52,Round of 16,Argentina,Australia,0,4,L
+53,Round of 16,Switzerland,Korea Republic,2,1,W
+54,Round of 16,Belgium,Senegal,4,2,W
+55,Round of 16,Germany,Brazil,1,2,L
+56,Round of 16,Colombia,England,0,4,L
+57,Quarter-finals,Nigeria,Portugal,0,4,L
+58,Quarter-finals,Switzerland,Belgium,1,2,L
+59,Quarter-finals,Brazil,England,0,1,L
+60,Quarter-finals,Spain,Australia,2,1,W
+61,Semi-finals,Portugal,Belgium,1,2,L
+62,Semi-finals,England,Spain,0,4,L
+63,Play-off for third place,Portugal,England,1,2,L
+64,Final,Belgium,Spain,1,2,L

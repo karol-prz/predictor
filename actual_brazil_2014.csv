@@ -1,0 +1,65 @@
+Nr,Group,HomeTeam,AwayTeam,HomeScore,AwayScore,Wdl
+1,Group A,Brazil,Croatia,3,1,W
+2,Group A,Mexico,Cameroon,1,0,W
+3,Group B,Spain,Netherlands,1,5,L
+4,Group B,Chile,Australia,3,1,W
+5,Group C,Colombia,Greece,3,0,W
+6,Group D,Uruguay,Costa Rica,1,3,L
+7,Group D,England,Italy,1,2,L
+8,Group C,C�te d'Ivoire,Japan,2,1,W
+9,Group E,Switzerland,Ecuador,2,1,W
+10,Group E,France,Honduras,3,0,W
+11,Group F,Argentina,Bosnia and Herzegovina,2,1,W
+12,Group G,Germany,Portugal,4,0,W
+13,Group F,IR Iran,Nigeria,0,0,D
+14,Group G,Ghana,USA,1,2,L
+15,Group H,Belgium,Algeria,2,1,W
+16,Group A,Brazil,Mexico,0,0,D
+17,Group H,Russia,Korea Republic,1,1,D
+18,Group B,Australia,Netherlands,2,3,L
+19,Group B,Spain,Chile,0,2,L
+20,Group A,Cameroon,Croatia,0,4,L
+21,Group C,Colombia,C�te d'Ivoire,2,1,W
+22,Group D,Uruguay,England,2,1,W
+23,Group C,Japan,Greece,0,0,D
+24,Group D,Italy,Costa Rica,0,1,L
+25,Group E,Switzerland,France,2,5,L
+26,Group E,Honduras,Ecuador,1,2,L
+27,Group F,Argentina,IR Iran,1,0,W
+28,Group G,Germany,Ghana,2,2,D
+29,Group F,Nigeria,Bosnia and Herzegovina,1,0,W
+30,Group H,Belgium,Russia,1,0,W
+31,Group H,Korea Republic,Algeria,2,4,L
+32,Group G,USA,Portugal,2,2,D
+33,Group B,Australia,Spain,0,3,L
+34,Group B,Netherlands,Chile,2,0,W
+35,Group A,Cameroon,Brazil,1,4,L
+36,Group A,Croatia,Mexico,1,3,L
+37,Group D,Italy,Uruguay,0,1,L
+38,Group D,Costa Rica,England,0,0,D
+39,Group C,Japan,Colombia,1,4,L
+40,Group C,Greece,C�te d'Ivoire,2,1,W
+41,Group F,Nigeria,Argentina,2,3,L
+42,Group F,Bosnia and Herzegovina,IR Iran,3,1,W
+43,Group E,Honduras,Switzerland,0,3,L
+44,Group E,Ecuador,France,0,0,D
+45,Group G,USA,Germany,0,1,L
+46,Group G,Portugal,Ghana,2,1,W
+47,Group H,Korea Republic,Belgium,0,1,L
+48,Group H,Algeria,Russia,1,1,D
+49,Round of 16,Brazil,Chile,1,1,W
+50,Round of 16,Colombia,Uruguay,2,0,W
+51,Round of 16,Netherlands,Mexico,2,1,W
+52,Round of 16,Costa Rica,Greece,1,1,W
+53,Round of 16,France,Nigeria,2,0,W
+54,Round of 16,Germany,Algeria,2,1,W
+55,Round of 16,Argentina,Switzerland,1,0,W
+56,Round of 16,Belgium,USA,2,1,W
+57,Quarter-finals,France,Germany,0,1,L
+58,Quarter-finals,Brazil,Colombia,2,1,W
+59,Quarter-finals,Argentina,Belgium,1,0,W
+60,Quarter-finals,Netherlands,Costa Rica,0,0,W
+61,Semi-finals,Brazil,Germany,1,7,L
+62,Semi-finals,Netherlands,Argentina,0,0,L
+63,Play-off for third place,Brazil,Netherlands,0,3,L
+64,Final,Germany,Argentina,1,0,W
